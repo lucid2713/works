@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Roboto:400,400i" rel="stylesheet">
+  <title style="font-weight:300">mina-works</title>
+
+  <style media="screen">
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      /*padding-top: 30px;*/
+      display: flex;
+      justify-content: center;
+      /*background-color: #ffff00;*/
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      width: 900px;
+    }
+
+    header {
+      font-family: 'Roboto', sans-serif;
+      font-style: normal;
+      font-size: 2rem;
+      /*padding-left: 20px;*/
+      /*border-bottom: 1px solid #ffff00;*/
+      text-align: center;
+    }
+
+    footer {
+      /*border-top: 1px solid #ffff00;*/
+      position: absolute;
+      width: 100%;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      text-align: center;
+      font-family: 'Roboto', sans-serif;
+      font-style: normal;
+      font-size: 1rem;
+    }
+
+    .content {
+      display: flex;
+      flex-direction: column-reverse;
+    }
+
+    .content nav {
+      /*border-right: 1px solid #ffff00;*/
+    }
+
+    .content aside {
+      /*border-left: 1px solid #ffff00;*/
+    }
+
+    nav {
+      /*flex-basis: 150px;*/
+      flex-shrink: 0;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      /*padding-left: 1rem;*/
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      font-family: 'Roboto', sans-serif;
+      font-style: italic;
+      /*font-weight: 300;*/
+      /*margin-left: 20px;
+      margin-top: 120px;*/
+      /*position: static;*/
+      position:relative;
+      text-align: center;
+      width: 100%;
+      /*margin-bottom: 1rem;*/
+    }
+    .link {
+      display: flex;
+      flex-direction: row;
+     //table 만들기
+    }
+
+    main {
+      padding: 10px;
+      /*width: 100%;*/
+      font-family: 'Cutive Mono', monospace;
+      /*font-style: normal;*/
+
+    }
+
+    aside {
+      /*flex-basis: 50px;
+      padding-right: 10px;*/
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    a {
+      text-decoration: none;
+      color: #000000;
+    }
+    a:hover {
+      color: #ff00d0;
+    }
+
+    .works {
+      display: flex;
+      flex-basis: 500px;
+      flex-shrink: 1;
+      flex-direction: column-reverse;
+      position: relative;
+      text-align: center;
+      margin: 1rem;
+      padding: 1rem;
+      /*display: flex;
+      flex-direction: column-reverse;*/
+      /*display: inline;*/
+    }
+
+    .work {
+      font-size: 3rem;
+      /*background-color: cyan;*/
+      /*padding: 20px;*/
+      /*padding: 1rem;*/
+      /*width: 350px;*/
+      margin: 1rem;
+      /*border-width: medium;
+      border-style: double;
+      border-color: #ff00d0;*/
+      /*background-color: #00faff;*/
+    }
+
+    .work a:hover{
+      color:#0033ff;
+    }
+
+
+    .work:nth-child(1) {
+      font-size: 2rem;
+      background-color: inherit;
+      border-style: hidden;
+      color: #000000;
+    }
+    .work:nth-child(1) a {
+      color: #0033ff;
+    }
+    .work:nth-child(1) a:hover {
+      color: #ff00d0;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <header>
+      <h1>works</h1>
+    </header>
+    <section class="content">
+      <nav>
+        <ul class="link">
+          <li><a href="http://minan.im/about/" target="_blank">about</a></li>
+          <li><a href="http://minan.im/notes/" target="_blank">blog</a></li>
+          <li><a href="http://minan.im/pdfs/CVmina.pdf" target="_blank">cv</a></li>
+        </ul>
+      </nav>
+
+      <main>
+        <div class="works">
+          <div class="work"><a href="http://minan.im/portfolio/" target="_blank">past works</a></div>
+          <div class="work"><a href="http://minan.im/Time/" target="_blank">My Time</a></div>
+          <div class="work"><a href="http://minan.im/portfolio/01_project/" target="_blank">The Future, Outdated</a></div>
+        </div>
+
+      </main>
+
+      <aside>
+      </aside>
+
+    </section>
+
+    <footer>
+      <!-- <div class="footerlist">
+      <a href="http://minan.im/about/" target="_blank"> about </a>
+      /<a href="http://minan.im/notes/" target="_blank"> blog </a>
+      / cv
+      </div> -->
+    </footer>
+  </div>
+</body>
+
+</html>
