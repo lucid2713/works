@@ -1,7 +1,8 @@
 function setup() {
 
 
-  var canvas = createCanvas(displayWidth, displayHeight);
+  // var canvas = createCanvas(displayWidth, displayHeight);
+  var canvas = createCanvas(windowWidth, windowHeight);
 
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
@@ -17,7 +18,7 @@ function draw() {
   noStroke();
   // rectMode(CENTER);
   fill(255, 10);
-  rect(0, 0, displayWidth, displayHeight);
+  rect(0, 0, windowWidth, windowHeight);
   // rect(0, 0, 720, 500);
 
     if(mouseX != 0 && mouseY !=0){
