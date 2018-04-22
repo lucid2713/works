@@ -18,7 +18,7 @@ name: "mina"
 email: lucid2713@gmail.com
 description: "Vita-minA"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://lucid2713.github.io/works
+url: http://mina-vitamina.net/
 permalink: /:title
 github_username:  lucid2713
 
