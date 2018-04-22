@@ -26,11 +26,13 @@ github_username:  lucid2713
 # theme: minima
 plugins:
   - jekyll-feed
-pygments: true
+# pygments: true
 # markdown: rdiscount
 markdown: kramdown
 exclude: ['.git']
 incremental: true
+
+highlighter: rouge
 
 
 
