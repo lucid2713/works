@@ -1,0 +1,347 @@
+html {
+  font-size: 16px;
+  /*font-family: monospace;*/
+  font-family: 'Cutive Mono', monospace;
+}
+
+.sidebar {
+  padding-top: 20px;
+  position: fixed;
+}
+
+.logo {
+  display: block;
+  max-width: 336px;
+}
+
+.logo img {
+  width: 100%;
+  height: 100%;
+}
+
+.sidebar .logo {
+  /*width: 32px;
+  height: 32px;*/
+  width: 100%;
+  height: 100%;
+  max-width: 48px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.nav {
+  font-family: 'Cutive Mono', monospace;
+  margin: 40px 0 0;
+  padding: 0 0 0 48px;
+  overflow: hidden;
+  list-style: none;
+}
+
+.nav-inner {
+  margin-top: 40px;
+}
+
+.wrapper {
+  font-family: 'Cutive Mono', monospace;
+  padding-right: 20px;
+  position: relative;
+  margin-left: 400px;
+}
+
+.wrapper h1 {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  font-size: 2.25rem;
+  font-style: normal;
+  margin-top: 0;
+  padding: 50px 0 20px 0;
+  /*text-transform: lowercase;*/
+}
+
+.page-wrapper{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+  /*line-height: 1.3em;*/
+  line-height: 1.7em;
+  max-width: 700px;
+  padding-right: 20px;
+  position: relative;
+  margin-left: 400px;
+}
+
+body {
+  margin: 0;
+  padding: 0 30px 30px;
+}
+
+a {
+  color: inherit;
+}
+
+.post-header{
+  /*padding-right: 20px;
+  position: relative;
+  margin-left: 400px;*/
+
+}
+.post-header h1{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  font-size: 2.25rem;
+  font-style: normal;
+  margin-top: 0;
+  /*margin-left: 400px;*/
+  padding: 50px 0 20px 0;
+  position: relative;
+}
+
+.post-link {
+  text-transform: lowercase;
+  display: block;
+  max-width: 400px;
+  padding: 20px 30px;
+  margin-bottom: 10px;
+  border: 2px dotted #6706F1;
+}
+
+.post-link:hover {
+  background: #6706F1;
+  color: white;
+  border: 2px dotted white;
+}
+
+.post-link:nth-child(4n+1) {
+  border-color: #07EFDA;
+  border-style: outset;
+}
+
+.post-link:nth-child(4n+1):hover {
+  background: #07EFDA;
+  color: inherit;
+  border: 2px outset white;
+}
+
+.post-link:nth-child(4n+2) {
+  border-color: #F106B2;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 0 0 1px white, 0 0 0 2px #F106B2;
+}
+
+.post-link:nth-child(4n+2):hover {
+  background: #F106B2;
+  color: white;
+}
+
+.post-link:nth-child(4n+3) {
+  border-color: #F188F3;
+  border-style: groove;
+}
+
+.post-link:nth-child(4n+3):hover {
+  background: #F188F3;
+  color: inherit;
+}
+
+.post-body {
+  line-height: 1.3em;
+  max-width: 700px;
+  padding-right: 20px;
+  position: relative;
+  margin-left: 400px;
+}
+
+.post-body img {
+  max-width: 100%;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.post-body a:nth-of-type(4n) {
+  color: #F106B2;
+}
+
+.post-body a:nth-of-type(4n+1) {
+  color: #F188F3;
+}
+
+.post-body a:nth-of-type(4n+2) {
+  color: #6706F1;
+}
+
+.post-body a:nth-of-type(4n+3) {
+  color: #07EFDA;
+}
+
+
+blockquote {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.5em;
+  margin: 2em 0;
+  padding: 0 1em;
+  border-left: 4px dashed #6706F1;
+}
+
+video {
+  width: 100%;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container.skinny {
+  padding-bottom: 43.076923%;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 0.5em;
+  background-size: 100% 100%;
+}
+
+.icon.doc {
+  background-image:url(/img/icons/icons8-edit-paper-48.png);
+}
+
+.icon.cv {
+  background-image:url(/img/icons/icons8-file-48.png);
+}
+
+.icon.me {
+  background-image:url(/img/icons/icons8-love-message-48.png);
+}
+
+.icon.blog {
+  background-image:url(/img/icons/icons8-writing-quill-48.png);
+}
+
+.icon.info {
+  background-image:url(/img/icons/icons8-about-48.png);
+}
+
+.icon.code {
+  background-image:url(/img/icons/code.png);
+}
+
+.icon.link {
+  background-image:url(/img/icons/icons8-link-48.png);
+}
+
+.icon.github {
+  background-image:url(/img/icons/icons8-github-48.png);
+}
+
+.icon.linkedin {
+  background-image:url(/img/icons/icons8-linkedin-48.png);
+}
+
+.icon.vimeo {
+  background-image:url(/img/icons/icons8-vimeo-48.png);
+}
+
+.icon.youtube {
+  background-image:url(/img/icons/icons8-youtube-48.png);
+}
+
+.icon.soundcloud {
+  background-image:url(/img/icons/icons8-soundcloud-50.png);
+}
+
+.icon.email {
+  background-image:url(/img/icons/icons8-email-48.png);
+}
+
+.nav a {
+  margin-right: 32px;
+  /*margin-bottom: 32px;*/
+  margin-bottom: 15px;
+  display: block;
+  float: left;
+  height: 32px;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 57.25rem) {
+  .sidebar {
+    position: static;
+    margin: auto;
+    max-width: 21rem;
+  }
+
+  .wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 29rem;
+  }
+
+  .wrapper h1 {
+    margin-top: 0;
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 5px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    height: 3rem;
+  }
+
+  .nav {
+    padding-top: 0.3em;
+    height: 4rem;
+    text-align: center;
+  }
+
+  .nav a {
+    float: none;
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+
+  .nav li {
+    display: inline-block;
+    font-size: 0.7em;
+  }
+
+  .logo img {
+    display: block;
+    max-width: 100%;
+    margin: 4rem auto 0;
+  }
+}
+
+@media screen and (max-width: 33.125rem) {
+  .logo img {
+    max-width: 60%;
+  }
+}

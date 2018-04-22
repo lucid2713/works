@@ -1,0 +1,236 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/addons/p5.dom.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/addons/p5.sound.min.js"></script>
+  <script src="sketch.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Roboto:400,400i" rel="stylesheet">
+  <title style="font-weight:300">mina-works</title>
+
+  <style media="screen">
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+      display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+      display: -ms-flexbox;      /* TWEENER - IE 10 */
+      display: -webkit-flex;     /* NEW - Chrome */
+      display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+      /*padding: 0;
+      margin: 0;*/
+      /*padding-top: 30px;*/
+      /*width: 100%;*/
+      /*display: flex;*/
+      justify-content: center;
+      align-items: center;
+      background-color: transparent;
+    }
+
+    canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      width: 900px;
+    }
+
+    header {
+      font-family: 'Roboto', sans-serif;
+      font-style: normal;
+      font-size: 2rem;
+      text-align: center;
+    }
+
+    /*.content {
+      display: flex;
+      flex-direction: row;
+    }*/
+
+    /*.content aside {}*/
+
+    nav {
+      /*flex-basis: 50px;*/
+      /*flex-shrink: 0;
+      padding-top: 1rem;
+      padding-bottom: 1rem;*/
+      /*padding-left: 1rem;*/
+      /*margin-top: 1rem;
+      margin-bottom: 1rem;
+      font-family: 'Roboto', sans-serif;
+      font-style: italic;*/
+      /*font-weight: 300;*/
+      /*margin-left: 20px;
+      margin-top: 120px;*/
+      /*position: static;*/
+      /*position: relative;
+      text-align: center;
+      width: 100%;*/
+      /*margin-bottom: 1rem;*/
+    }
+
+    main {
+      /*padding: 10px;*/
+      /*width: 100%;*/
+      padding-bottom: 3rem;
+      font-family: 'Cutive Mono', monospace;
+    }
+
+    aside {
+      /*flex-basis: 50px;*/
+      /*padding-right: 10px;*/
+    }
+
+    /*ul {
+      list-style: none;
+    }*/
+
+    a {
+      text-decoration: none;
+      color: #000000;
+    }
+
+    a:hover {
+      color: #ff00d0;
+    }
+
+    .works {
+      display: flex;
+      flex-basis: 500px;
+      flex-shrink: 1;
+      flex-direction: column-reverse;
+      position: relative;
+      text-align: center;
+      margin: 1rem;
+      padding: 1rem;
+      /*display: flex;
+      flex-direction: column-reverse;*/
+      /*display: inline;*/
+    }
+
+    .work {
+      font-size: 3rem;
+      /*padding: 20px;*/
+      /*padding: 1rem;*/
+      /*width: 350px;*/
+      margin: 1rem;
+      /*border-width: medium;
+      border-style: double;
+      border-color: #ff00d0;*/
+      /*background-color: #00faff;*/
+    }
+
+    .work a:hover {
+      color: #0033ff;
+    }
+
+    .work:nth-child(1) {
+      font-size: 2rem;
+      background-color: inherit;
+      border-style: hidden;
+      color: #000000;
+    }
+
+    .work:nth-child(1) a {
+      color: #ff00d0;
+    }
+
+    .work:nth-child(1) a:hover {
+      color: #0033ff;
+    }
+
+    footer {
+      position: absolute;
+      width: 100%;
+      right: 0;
+      left: 0;
+      height: 3rem;
+      bottom: 0;
+      padding: 10px;
+      margin: 0;
+    }
+
+    .footerlist {
+      display: flex;
+      justify-content: center;
+      flex-direction: row;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    footer .footerlist p{
+        /*flex-grow: 1;*/
+      text-align: center;
+      font-family: 'Roboto', sans-serif;
+      font-style: italic;
+      font-size: 1rem;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+    footer .footerlist p a {
+      text-decoration: underline;
+      color: #ff00d0;
+    }
+
+    footer .footerlist p a:hover {
+      color: #0033ff;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <header>
+      <h1>works</h1>
+    </header>
+
+    <section class="content">
+      <nav>
+      </nav>
+
+      <main>
+        <div class="works">
+          <div class="work"><a href="http://minan.im/portfolio/" target="_blank">past works</a></div>
+          <div class="work"><a href="http://minan.im/Time/" target="_blank">My Time</a></div>
+          <div class="work"><a href="http://minan.im/portfolio/01_project/" target="_blank">The Future, Outdated</a></div>
+        </div>
+      </main>
+
+      <aside>
+      </aside>
+    </section>
+
+    <footer>
+      <div class="footerlist">
+        <p><a href="http://minan.im/about/" target="_blank">about</a></p>
+        <p><a href="http://minan.im/notes/" target="_blank">blog</a></p>
+        <p><a href="http://minan.im/pdfs/CVmina.pdf" target="_blank">cv</a></p>
+      </div>
+    </footer>
+  </div>
+
+  <div id="sketch-holder">
+  </div>
+</body>
+
+</html>

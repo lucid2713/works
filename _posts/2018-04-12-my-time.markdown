@@ -1,0 +1,36 @@
+---
+layout: post
+title: My Time
+---
+
+My Time, Web Archive, 2017
+
+***
+
+<br/>
+<a href="http://lucid2713.github.io/Time/" target="blank">My Time</a> is a web archiving platform which aims to collect subjective experiences about perception of time. <br/>
+As a group project in 'Research & Art Practices A' class, 2017, My colleagues and I have been collecting participants' personal sense of time, which is made up of various kinds of multimedia resources through online web archive.<br/><br/>
+
+<div>
+<img class="col three" src="/img/work_footage/mytime_footage1.png" alt="My Time footage1" title="My Time footage1"/>
+<img class="col three" src="/img/work_footage/mytime_footage2.png" alt="My Time footage2" title="My Time footage2"/>
+</div>
+<div class="col three caption">
+	<i>Screenshots of My Time web archive, 2017</i>
+</div>
+
+
+>Many people find themselves out of sync at times with the clock. Losing track of time, wishing a moment could last longer or eagerly waiting for a moment to arrive. To try and bridge that gap between the distant clock and our personal sense of time, we’ve started an effort to reconstruct the social construct.<br/>
+We created a platform for the collection of a new system of time. This new system finds it base in personal, sensory experiences that are reconsidered as units of time. We have provided several base units, all grounded in private experiences. People are invited to add their own time units, based on our units. From this a comparative system can be set up, linking the units to each other.<br/>
+For the start-up, we have had to link our base units to the conventional time system. However, our goal is to eventually gather enough units to set up an extensive library of measurements and no longer have to rely on the conventional system.
+
+
+
+***
+
+<br/>
+<b>My contribution : conceptualization, making and managing website</b><br/>
+collaboration with Anoek, Rannilt, Rona and Jurjen<br/>
+<br/>
+Go to <a href="http://lucid2713.github.io/Time/" target="blank">My Time</a>
+<br/><br/><br/>
