@@ -30,7 +30,7 @@ plugins:
 # markdown: rdiscount
 markdown: kramdown
 exclude: ['.git']
-incremental: true
+# incremental: true
 
 highlighter: rouge
 
