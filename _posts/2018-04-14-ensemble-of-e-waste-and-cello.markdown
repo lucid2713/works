@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Ensemble of Robot and Cello
+title: Ensemble of E-waste and Cello
 ---
 
-Ensemble of Robot and Cello, Performance, 2018
+Ensemble of E-waste and Cello, Performance, 2018
 
 ***
 
 <br/>
 
-<i><b>Work in progress.</b> Will be developed for 'On Shaky Ground' festival, 8-10, June, 2018.</i>
+<i><b>Work in progress.</b> Will be developed for 'Shaky Ground' festival, 8-10, June, 2018.</i>
 
-Performance in collaboration with Lucija(cellist), composed of interactive e-waste robot and analog circuit synthesizer.
+Performance in collaboration with Lucija(cellist), composed of interactive e-waste and analog circuit synthesizer.
 
 <br/>
 <div>
@@ -20,6 +20,14 @@ Performance in collaboration with Lucija(cellist), composed of interactive e-was
 <div class="col three caption">
   <i>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</i>
 </div>
+<br/>
+<div>
+<img class="col three" src="/img/work_footage/betontegel.jpg" alt="performance at Betontegel" title="performance at Betontegel"/>
+</div>
+<div class="col three caption">
+  <i>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</i>
+</div>
+
 
 ***
 
