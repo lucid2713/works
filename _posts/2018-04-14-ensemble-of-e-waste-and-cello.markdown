@@ -20,6 +20,11 @@ Performance in collaboration with Lucija(cellist), composed of interactive e-was
 <div class="col three caption">
   <i>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</i>
 </div>
+
+***
+
+<i>photo taken by Dick Pluim</i>
+
 <br/>
 <div>
 <img class="col three" src="/img/work_footage/betontegel.jpg" alt="performance at Betontegel" title="performance at Betontegel"/>
@@ -28,10 +33,8 @@ Performance in collaboration with Lucija(cellist), composed of interactive e-was
   <i>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</i>
 </div>
 
-
 ***
 
-<i>photo taken by Dick Pluim</i>
 
 <br/>
 One of sample recordings on <a href="https://soundcloud.com/mina-vitamina/cirtuit-cello-and-modulation-text-composition-01" target="blank">soundcloud</a><br/>
