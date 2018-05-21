@@ -25,7 +25,7 @@ permalink: /cv/
 
 <li>The Future, Outdated, installation composed of electronic wastes, 2017</li>
 <li>My Time(group work), web archive about personal time units, 2017</li>
-<li>Ensemble of Robot and Cello, performance with a circuit instrument, interactive e-waste robot and cello, 2018</li>
+<li>Ensemble of E-waste and Cello, performance with a circuit instrument, interactive e-waste and cello, 2018</li>
 </ul>
 
 <br/><br/>
