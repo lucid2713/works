@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ensemble of E-waste and Cello
+title: Sonic Waste
 ---
 
-Ensemble of E-waste and Cello, Performance, 2018
+Sonic Waste, Interactive installation & Performance, 2018
 
 ***
 
 <br/>
 
-<i><b>Work in progress.</b> Will be developed for 'Shaky Ground' festival, 8-10, June, 2018.</i>
+<i><b>Work in progress.</b> Will be developed for 'Shaky Grounds' festival, 8-10, June, 2018.</i>
 
 Performance in collaboration with Lucija(cellist), composed of interactive e-waste and analog circuit synthesizer.
 
