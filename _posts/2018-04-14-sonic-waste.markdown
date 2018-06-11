@@ -9,38 +9,33 @@ Sonic Waste, Interactive installation & Performance, 2018
 
 <br/>
 
-<i><b>Work in progress.</b> Will be developed for 'Shaky Grounds' festival, 8-10, June, 2018.</i>
-
 Performance in collaboration with Lucija(cellist), composed of interactive e-waste and analog circuit synthesizer.
+<br/><br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UHzsP7-QSdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
 
-<br/>
-<div>
+
+<!-- <div>
 <img class="col three" src="/img/work_footage/ensemble_robot_cello_01.jpg" alt="performance at Het Rumoer festival" title="performance at Het Rumoer festival"/>
 </div>
-<div class="col three caption">
-  <i>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</i>
-</div>
+<i>photo taken by Dick Pluim</i> -->
 
-***
+>The project Sonic Waste is a collaborative sound project created by Fruit From the Forest(Mina and Lucija Gregov). Our experimental sound exploration was firstly inspired by De Ploeg’s strong relation to nature. We decided to use electronic waste that can be devastating for the Earth as an art tool for creation of sound. With the sounds of cello and awaken electronic waste, we are creating new sound landscape that acts as an antidote on today’s pollution and ecological crisis. By exploring perception of waste, we want to raise and induce human consciousness and awareness of our living environment. Our sound performance acts as a new hybrid between cracks of visual and sonic art forms and technology.
 
-<i>photo taken by Dick Pluim</i>
-
-<br/>
-<div>
-<img class="col three" src="/img/work_footage/betontegel.jpg" alt="performance at Betontegel" title="performance at Betontegel"/>
-</div>
-<div class="col three caption">
-  <i>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</i>
-</div>
-
-***
-
-
-<br/>
 One of sample recordings on <a href="https://soundcloud.com/mina-vitamina/cirtuit-cello-and-modulation-text-composition-01" target="blank">soundcloud</a><br/>
-(although it's not the very sound performed at the festival)
+<br/>
 
-<br/><br/>
+
+***
+
+<br/>
+<ul>
+<li><i>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</i></li>
+<li><i>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</i></li>
+<li><i>Shaky Grounds Festival, Academy Minerva, Groningen, Netherlands, 08-10.06.2018</i></li>
+</ul>
+
 
 
 <br/><br/><br/>
