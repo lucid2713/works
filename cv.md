@@ -25,10 +25,47 @@ permalink: /cv/
 
 <li>The Future, Outdated, installation composed of electronic wastes, 2017</li>
 <li>My Time(group work), web archive about personal time units, 2017</li>
-<li>Ensemble of E-waste and Cello, performance with a circuit instrument, interactive e-waste and cello, 2018</li>
+<li>Sonic Waste, performance with a circuit instrument, interactive e-waste and cello, 2018</li>
 </ul>
+<br/>
 
-<br/><br/>
+<hr/>
+<table>
+<tr>
+<th>Skills</th>
+<th> </th>
+</tr>
+<tr>
+<td>Processing</td>
+<td><i>advanced</i></td>
+</tr>
+<tr>
+<td>Arduino</td>
+<td><i>advanced</i></td>
+</tr>
+<tr>
+<td>Raspberry Pi</td>
+<td><i>beginner</i></td>
+</tr>
+<tr>
+<td>MaxMSP</td>
+<td><i>advanced</i></td>
+</tr>
+<tr>
+<td>HTML CSS</td>
+<td><i>intermediate</i></td>
+</tr>
+<tr>
+<td>OpenFrameworks</td>
+<td><i>intermediate</i></td>
+</tr>
+<tr>
+<td>Github</td>
+<td><i>advanced</i></td>
+</tr>
+</table>
+
+
 <hr/>
 <br/>
 <i>You can see CV in pdf <a href="https://lucid2713.github.io/pdfs/CVmina.pdf" target="blank">here</a>.</i>

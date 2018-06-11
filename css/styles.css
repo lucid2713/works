@@ -69,6 +69,20 @@ html {
   margin-left: 400px;
 }
 
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+td, th {
+    border: 0px, solid, white;
+    text-align: left;
+    padding: 1px;
+}
+
 body {
   margin: 0;
   padding: 0 30px 30px;
