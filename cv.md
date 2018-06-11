@@ -18,6 +18,7 @@ permalink: /cv/
 <li>OrbitFest, Synagoge Groningen, Groningen, Netherlands, 15-17.12.2017</li>
 <li>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</li>
 <li>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</li>
+<li>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</li>
 </ul>
 
 <ul>

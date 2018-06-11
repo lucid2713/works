@@ -33,7 +33,7 @@ One of sample recordings on <a href="https://soundcloud.com/mina-vitamina/cirtui
 <ul>
 <li><i>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</i></li>
 <li><i>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</i></li>
-<li><i>Shaky Grounds Festival, Academy Minerva, Groningen, Netherlands, 08-10.06.2018</i></li>
+<li><i>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</i></li>
 </ul>
 
 
