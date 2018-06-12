@@ -12,7 +12,7 @@ Sonic Waste, Interactive installation & Performance, 2018
 Performance in collaboration with Lucija(cellist), composed of interactive e-waste and analog circuit synthesizer.
 <br/><br/>
 <p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UHzsP7-QSdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/274627353" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
 
