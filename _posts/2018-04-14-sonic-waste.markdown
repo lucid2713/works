@@ -23,9 +23,12 @@ Performance in collaboration with Lucija(cellist), composed of interactive e-was
 
 >The project Sonic Waste is a collaborative sound project created by Fruit From the Forest(Mina and Lucija Gregov). Our experimental sound exploration was firstly inspired by De Ploeg’s strong relation to nature. We decided to use electronic waste that can be devastating for the Earth as an art tool for creation of sound. With the sounds of cello and awaken electronic waste, we are creating new sound landscape that acts as an antidote on today’s pollution and ecological crisis. By exploring perception of waste, we want to raise and induce human consciousness and awareness of our living environment. Our sound performance acts as a new hybrid between cracks of visual and sonic art forms and technology.
 
-One of sample recordings on <a href="https://soundcloud.com/mina-vitamina/cirtuit-cello-and-modulation-text-composition-01" target="blank">soundcloud</a><br/>
+<!-- Live recordings on <a href="https://soundcloud.com/mina-vitamina/cirtuit-cello-and-modulation-text-composition-01" target="blank">soundcloud</a><br/>
+<br/> -->
 <br/>
-
+Live recordings on Soundcloud
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/538965807&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<br/>
 
 ***
 
