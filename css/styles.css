@@ -83,6 +83,16 @@ td, th {
     padding: 1px;
 }
 
+#other_links {
+  font-family: 'Cutive Mono', monospace;
+  text-align: left;
+  border-collapse: collapse;
+  width: 90%;
+  padding: 8px;
+  margin: 0, auto;
+
+}
+
 body {
   margin: 0;
   padding: 0 30px 30px;
@@ -230,6 +240,10 @@ video {
   background-size: 100% 100%;
 }
 
+.icon.orange {
+  background-image:url(/img/icons/icons8-orange-48.png);
+}
+
 .icon.doc {
   background-image:url(/img/icons/icons8-edit-paper-48.png);
 }
@@ -358,4 +372,13 @@ video {
   .logo img {
     max-width: 60%;
   }
+}
+
+.footer_links {
+  position: static;
+  /*left:50px;*/
+  bottom: 0;
+  width: 60%;
+  text-align: center;
+
 }

@@ -15,7 +15,17 @@ I'm interested in the interaction between human and digital technology, taking s
 I'm working on 'electronic wastes' these days by seeking the usefulness and new value of abandoned, useless and outdated electronic rubbish.
 </b></p>
 
-<br/><br/><br/>
 <address>
   <a href="mailto:lucid2713@gmail.com"><span class="icon email"></span>contact me</a>
 </address>
+
+<br/><br/><br/><br/>
+<hr>
+<table id="other_links">
+<tr>
+<td><a href="http://github.com/lucid2713" target="blank"><span class="icon github"></span>github</a></td>
+<td><a href="https://www.linkedin.com/in/mina-kim-66b849156/" target="blank"><span class="icon linkedin"></span>linkedin</a></td>
+<td><a href="https://soundcloud.com/mina-vitamina" target="blank"><span class="icon soundcloud"></span>soundcloud</a></td>
+<td><a href="https://vimeo.com/vitamina" target="blank"><span class="icon vimeo"></span>vimeo</a></td>
+</tr>
+</table>
