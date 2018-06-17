@@ -38,7 +38,12 @@ Live recordings on Soundcloud
 <li><i>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</i></li>
 <li><i>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</i></li>
 </ul>
-
+<br/>
+<div class="img_row">
+<p align="middle">
+	<img class="img_poster" src="{{ site.baseurl }}/img/posters.gif" alt="posters" title="posters"/>
+  </p>
+</div>
 
 
 <br/><br/><br/>

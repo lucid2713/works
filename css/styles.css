@@ -69,6 +69,10 @@ html {
   margin-left: 400px;
 }
 
+.img_poster {
+  width: 50%;
+}
+
 table {
   border-collapse: collapse;
   width: 60%;
