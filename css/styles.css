@@ -296,6 +296,10 @@ video {
   background-image:url(/img/icons/icons8-email-48.png);
 }
 
+.icon.facebook {
+  background-image:url(/img/icons/icons8-facebook-circled-48.png);
+}
+
 .nav a {
   margin-right: 32px;
   /*margin-bottom: 32px;*/
