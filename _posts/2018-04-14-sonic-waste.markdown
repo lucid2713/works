@@ -8,13 +8,22 @@ Sonic Waste, Interactive installation & Performance, 2018
 ***
 
 <br/>
-
-Performance in collaboration with Lucija(cellist), composed of interactive e-waste and analog circuit synthesizer.
-<br/><br/>
+<div>
 <p align="middle">
-<iframe src="https://player.vimeo.com/video/274627353" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<img class="img_vertical" src="/img/work_footage/sonicwaste04.jpg" alt="sonicwaste pic3" title="sonicwaste pic3"/>
+<br/>
+Performance in collaboration with Lucija(cellist),
+<br/>
+composed of interactive e-waste and analog circuit synthesizer.
 </p>
+</div>
 
+<div>
+<p align="middle">
+<img class="img_horizontal" src="/img/work_footage/sonicwaste02.jpg" alt="sonicwaste pic1" title="sonicwaste pic1"/>
+<img class="img_horizontal" src="/img/work_footage/sonicwaste01.jpg" alt="sonicwaste pic2" title="sonicwaste pic2"/>
+</p>
+</div>
 
 <!-- <div>
 <img class="col three" src="/img/work_footage/ensemble_robot_cello_01.jpg" alt="performance at Het Rumoer festival" title="performance at Het Rumoer festival"/>
@@ -25,7 +34,19 @@ Performance in collaboration with Lucija(cellist), composed of interactive e-was
 
 <!-- Live recordings on <a href="https://soundcloud.com/mina-vitamina/cirtuit-cello-and-modulation-text-composition-01" target="blank">soundcloud</a><br/>
 <br/> -->
+
 <br/>
+<p align="middle">
+<iframe src="https://player.vimeo.com/video/274627353" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
+<div class="img_row">
+<p align="middle">
+	<img class="img_gif" src="{{ site.baseurl }}/img/work_footage/sonicwaste_solo.gif" alt="solo play" title="solo play"/>
+	<i>Solo play only with e-waste instrument without cello</i>
+  </p>
+</div>
+
+<br/><br/>
 Live recordings on Soundcloud
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/538965807&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <br/>

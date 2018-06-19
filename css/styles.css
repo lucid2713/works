@@ -235,6 +235,17 @@ video {
   height: 100%;
 }
 
+.img_vertical {
+  height: 500px;
+}
+
+.img_horizontal {
+  width: 640px;
+}
+.img_gif {
+  width: 640px;
+}
+
 .icon {
   width: 24px;
   height: 24px;
