@@ -42,7 +42,7 @@ composed of interactive e-waste and analog circuit synthesizer.
 <div class="img_row">
 <p align="middle">
 	<img class="img_gif" src="{{ site.baseurl }}/img/work_footage/sonicwaste_solo.gif" alt="solo play" title="solo play"/>
-	<i>Solo play only with e-waste instrument without cello</i>
+	<i>Solo play only with e-waste instrument</i>
   </p>
 </div>
 
