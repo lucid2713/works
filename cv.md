@@ -12,21 +12,26 @@ permalink: /cv/
 </ul>
 
 <ul>
+<strong>Supplementary education</strong>
+<li><a href="http://schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017</li>
+</ul>
+
+<ul>
 <strong>Exhibition / Performance</strong>
 
-<li>Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 26.05.2017</li>
-<li>OrbitFest, Synagoge Groningen, Groningen, Netherlands, 15-17.12.2017</li>
-<li>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</li>
-<li>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</li>
 <li>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</li>
+<li>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</li>
+<li>Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 26.05.2017</li>
+<li>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</li>
+<li>OrbitFest, Synagoge Groningen, Groningen, Netherlands, 15-17.12.2017</li>
 </ul>
 
 <ul>
 <strong>Works</strong>
 
-<li>The Future, Outdated, installation composed of electronic wastes, 2017</li>
-<li>My Time(group work), web archive about personal time units, 2017</li>
 <li>Sonic Waste, performance with a circuit instrument, interactive e-waste and cello, 2018</li>
+<li>My Time(group work), web archive about personal time units, 2017</li>
+<li>The Future, Outdated, installation composed of electronic wastes, 2017</li>
 </ul>
 <br/>
 
