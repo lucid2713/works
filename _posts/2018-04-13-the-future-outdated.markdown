@@ -27,7 +27,7 @@ The future outdated, Installation (Electronic wastes, Arduino, Speaker, iPad), 2
 
 <br/>
 <p>
-An installation composed with electronic wastes. It looks like an outdated, abandoned and useless robot, once had been considered as our future. Meanwhile, it can be the future of newly-born robots which will be discarded soon after.
+An installation composed with electronic wastes. It looks like an outdated, abandoned and useless robot, once had been considered as our future. Meanwhile, it can be the future of newly-born robot which will be discarded soon after.
 </p>
 <br/>
 
