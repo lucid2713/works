@@ -47,7 +47,7 @@ composed of interactive e-waste and analog circuit synthesizer.
 </div>
 
 <br/><br/>
-Live recordings 
+Live recordings
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/538965807&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <br/>
 
@@ -55,9 +55,9 @@ Live recordings
 
 <br/>
 <ul>
-<li><i>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</i></li>
-<li><i>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</i></li>
 <li><i>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</i></li>
+<li><i>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</i></li>
+<li><i>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</i></li>
 </ul>
 <br/>
 <div class="img_row">
