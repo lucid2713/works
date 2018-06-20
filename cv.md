@@ -21,9 +21,9 @@ permalink: /cv/
 
 <li>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</li>
 <li>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</li>
-<li>Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 26.05.2017</li>
 <li>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</li>
 <li>OrbitFest, Synagoge Groningen, Groningen, Netherlands, 15-17.12.2017</li>
+<li>Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 26.05.2017</li>
 </ul>
 
 <ul>
