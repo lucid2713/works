@@ -27,6 +27,6 @@ I'm working on 'electronic wastes' these days by seeking the usefulness and new 
 <td><a href="https://www.linkedin.com/in/mina-kim-66b849156/" target="blank"><span class="icon linkedin"></span>linkedin</a></td>
 <td><a href="https://soundcloud.com/mina-vitamina" target="blank"><span class="icon soundcloud"></span>soundcloud</a></td>
 <td><a href="https://vimeo.com/vitamina" target="blank"><span class="icon vimeo"></span>vimeo</a></td>
-<td><a href="https://www.facebook.com/lucid2713" target="blank"><span class="icon facebook"></span></a></td>
+<td><a href="https://www.facebook.com/mina.kim.vitamina" target="blank"><span class="icon facebook"></span></a></td>
 </tr>
 </table>
