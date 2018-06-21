@@ -3,7 +3,7 @@ layout: post
 title: The Future, Outdated
 ---
 
-The future outdated, Installation (Electronic wastes, Arduino, Speaker, iPad), 2017
+The future outdated, Installation (Electronic wastes and Arduino), 2017
 
 ***
 
