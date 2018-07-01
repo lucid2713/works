@@ -11,8 +11,10 @@ Before that, I majored in <a href="http://sociology.snu.ac.kr/eng" target="blank
 </b></p>
 
 <p><b>
-I'm interested in the interaction between human and digital technology, taking sociological point of view. I like looking into not only new technological development but also the things left behind as it proceeds. <br/>
-I'm working on 'electronic wastes' these days by seeking the usefulness and new value of abandoned, useless and outdated electronic rubbish.
+I’m interested in the things being left behind when digital technology develops.<br/>
+Looking back what is overlooked and thrown away, so as technology does not go too far from our lives, I aim at sustainable and playful design by dealing with art and technology.
+<br/>
+I'm working on 'electronic wastes' these days by seeking the usefulness and new value of abandoned, outdated and deceased electronics.
 </b></p>
 
 <address>
