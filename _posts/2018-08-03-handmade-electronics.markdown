@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Zine 'handmade electronics'
+title: Zine 'Handmade Electronic Art'
 redirect_to:
 - http://lucid2713.github.io/handmade-electronics/
 ---
 
-Zine for tutorial of handmade electronics and informative references, 2018 -
+Zine for tutorial of handmade electronic art and informative references, 2018 -
 
 ***
