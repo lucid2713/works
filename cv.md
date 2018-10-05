@@ -29,6 +29,7 @@ permalink: /cv/
 <ul>
 <strong>Works</strong>
 
+<li>E-waste Instrument, researching, creating and performing e-waste instrument, 2018</li>
 <li>Sonic Waste, performance with a circuit instrument, interactive e-waste and cello, 2018</li>
 <li>My Time(group work), web archive about personal time units, 2017</li>
 <li>The Future, Outdated, installation composed of electronic wastes, 2017</li>
