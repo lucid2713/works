@@ -19,6 +19,9 @@ permalink: /cv/
 <ul>
 <strong>Exhibition / Performance</strong>
 
+<li>TutTotTud(A European audio & art exhibition), Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</li>
+<li>Terzetto, SIGN, Groningen, Netherlands, 03-25.Nov.2018</li>
+<li>Forking Room: Your Smart Neighborhood, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018</li>
 <li>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</li>
 <li>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</li>
 <li>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</li>
@@ -29,9 +32,9 @@ permalink: /cv/
 <ul>
 <strong>Works</strong>
 
-<li>E-waste Instrument, researching, creating and performing e-waste instrument, 2018</li>
+<li>Playful Obsolescence, researching, creating and performing e-waste instrument, 2018</li>
+<li>Zine: My First Analog Synthesizer, Paper and online zine illustration building analog synthesizer with circuit bending, 2018</li>
 <li>Sonic Waste, performance with a circuit instrument, interactive e-waste and cello, 2018</li>
-<li>My Time(group work), web archive about personal time units, 2017</li>
 <li>The Future, Outdated, installation composed of electronic wastes, 2017</li>
 </ul>
 <br/>

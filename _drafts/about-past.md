@@ -11,7 +11,10 @@ Before that, I majored in <a href="http://sociology.snu.ac.kr/eng" target="blank
 </p>
 
 <p>
-I am interested in what is left behind as digital technology develops. I also try to discover the loopholes of technological developments by looking back at the problems which were overlooked - especially the environmental impact of these technological advances. Based on this view, I’m currently working on combining ‘research + creation + performance’ under the theme of ’Electronic Waste’.
+I’m interested in the things being left behind when digital technology develops.<br/>
+Looking back what is overlooked and thrown away, so as technology does not go too far from our lives, I aim at sustainable and playful design by dealing with art and technology.
+<br/><br/>
+I'm working on 'electronic wastes' these days by seeking the usefulness and new value of abandoned, outdated and deceased electronics.
 </p><br/>
 
 <address>
