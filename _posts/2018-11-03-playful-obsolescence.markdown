@@ -7,8 +7,15 @@ Playful Obsolescence, Video, Installation & Performance, 2018
 
 ***
 
+<br/>
+<div>
+<p align="middle">
+<img class="img_horizontal" src="/img/work_footage/playful_obsolescence.png" alt="playful obsolescence image" title="playful obsolescence"/>
+<br/>
 Work in progress of research, creation and performance on e-waste instrument.
-<br/><br/>
+</p>
+</div>
+<br/>
 
 
 >Nowadays digital devices around us are becoming smarter and more complex. Devices with new functionalities and better performance are coming out on the market at a faster rate than ever. However, I have always wondered where the old, outdated, or deceased stuff have gone. Even though those old gadgets disappear from our interest, they still exist somewhere around us, causing various environmental, societal and ethical problems.

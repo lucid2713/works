@@ -33,3 +33,7 @@ gem 'pygments.rb'
 gem "github-pages", group: :jekyll_plugins
 
 gem 'jekyll-redirect-from'
+
+gem 'html-pipeline'
+
+gem 'rouge'
