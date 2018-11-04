@@ -94,7 +94,10 @@ td, th {
   width: 90%;
   padding: 8px;
   margin: 0, auto;
+}
 
+#email {
+  font-family: 'Cutive Mono', monospace;
 }
 
 body {

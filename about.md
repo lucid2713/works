@@ -12,13 +12,15 @@ Before that, I majored in <a href="http://sociology.snu.ac.kr/eng" target="blank
 
 <p>
 I am interested in what is left behind as digital technology develops. I also try to discover the loopholes of technological developments by looking back at the problems which were overlooked - especially the environmental impact of these technological advances. Based on this view, I’m currently working on combining ‘research + creation + performance’ under the theme of ’Electronic Waste’.
-</p><br/>
+</p><br/><br/>
 
-<address>
+<!-- <address>
   <a href="mailto:lucid2713@gmail.com"><span class="icon email"></span>contact me</a>
-</address>
+</address> -->
 
-<br/><br/><br/>
+<div id="email">contact@mina-vitamina.net</div>
+
+<br/><br/>
 <hr>
 <table id="other_links">
 <tr>
@@ -27,5 +29,6 @@ I am interested in what is left behind as digital technology develops. I also tr
 <td><a href="https://soundcloud.com/mina-vitamina" target="blank"><span class="icon soundcloud"></span>soundcloud</a></td>
 <td><a href="https://vimeo.com/vitamina" target="blank"><span class="icon vimeo"></span>vimeo</a></td>
 <td><a href="https://www.facebook.com/mina.kim.vitamina" target="blank"><span class="icon facebook"></span></a></td>
+<td><address><a href="mailto:lucid2713@gmail.com"><span class="icon email"></span></a></address></td>
 </tr>
 </table>
