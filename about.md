@@ -12,7 +12,12 @@ Before that, I majored in <a href="http://sociology.snu.ac.kr/eng" target="blank
 
 <p>
 I am interested in what is left behind as digital technology develops. I also try to discover the loopholes of technological developments by looking back at the problems which were overlooked - especially the environmental impact of these technological advances. Based on this view, I’m currently working on combining ‘research + creation + performance’ under the theme of ’Electronic Waste’.
-</p><br/><br/>
+</p>
+
+<p>
+I'm a member of project group 'Fruit From the Forest', which is a experimental collaborative sound project.</p>
+
+<br/><br/>
 
 <!-- <address>
   <a href="mailto:lucid2713@gmail.com"><span class="icon email"></span>contact me</a>

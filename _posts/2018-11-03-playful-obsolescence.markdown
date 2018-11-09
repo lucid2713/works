@@ -23,12 +23,11 @@ Through my work, I try to visually and audibly reveal the existence of electroni
 
 
 
-
 <br/><br/>
 <ul>
-<li><i>TutTotTud(A European audio & art exhibition), Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</i></li>
-<li><i>Terzetto, SIGN, Groningen, Netherlands, 03-25.Nov.2018</i></li>
-<li><i>Forking Room: Your Smart Neighborhood, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018</i></li>
+<li><i><a href="https://www.tuttottud.com/" target="blank">TutTotTud</a>(A European audio & art exhibition), Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</i></li>
+<li><i><a href="https://sign2.nl/" target="blank">Terzetto</a>, SIGN, Groningen, Netherlands, 03-25.Nov.2018</i></li>
+<li><i><a href="http://ujeongguk.com/forking-room/" target="blank">Forking Room: Your Smart Neighborhood</a>, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018</i></li>
 </ul>
 
 <br/><br/><br/>
