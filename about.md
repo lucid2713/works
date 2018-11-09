@@ -15,7 +15,7 @@ I am interested in what is left behind as digital technology develops. I also tr
 </p>
 
 <p>
-I'm a member of project group 'Fruit From the Forest', which is a experimental collaborative sound project.</p>
+I'm a member of project group '<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>', which is an experimental collaborative sound project.</p>
 
 <br/><br/>
 
