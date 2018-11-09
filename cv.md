@@ -46,7 +46,7 @@ permalink: /cv/
 <th> </th>
 </tr>
 <tr>
-<td>Processing</td>
+<td>Processing P5.js</td>
 <td><i>advanced</i></td>
 </tr>
 <tr>
