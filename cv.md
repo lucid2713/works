@@ -19,7 +19,7 @@ permalink: /cv/
 <ul>
 <strong>Exhibition / Performance</strong>
 
-<li>TutTotTud(A European audio & art exhibition), Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</li>
+<li>TutTotTud, Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</li>
 <li>Terzetto, SIGN, Groningen, Netherlands, 03-25.Nov.2018</li>
 <li>Forking Room: Your Smart Neighborhood, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018</li>
 <li>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</li>
