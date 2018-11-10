@@ -22,8 +22,15 @@ Work in progress of research, creation and performance on e-waste instrument.
 Through my work, I try to visually and audibly reveal the existence of electronic garbage - such as broken computer parts- that have gone out of our sight. They have lost their value as the interface they were previously designed as. Therefore I aim to re-discover a new ‘playful function’ out of the left circuits and components.
 
 
+<br>
+<p align="middle">
+<iframe src="https://player.vimeo.com/video/300018380" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
+<br/>
 
-<br/><br/>
+***
+
+<br/>
 <ul>
 <li><i><a href="https://www.tuttottud.com/" target="blank">TutTotTud</a>, Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</i></li>
 <li><i><a href="https://sign2.nl/" target="blank">Terzetto</a>, SIGN, Groningen, Netherlands, 03-25.Nov.2018</i></li>
