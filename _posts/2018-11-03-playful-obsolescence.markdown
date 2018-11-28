@@ -24,7 +24,7 @@ Through my work, I try to visually and audibly reveal the existence of electroni
 
 <br>
 <p align="middle">
-<iframe src="https://player.vimeo.com/video/300018380" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/300018380?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 <br/>
 
