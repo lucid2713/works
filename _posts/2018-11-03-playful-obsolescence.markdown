@@ -32,6 +32,7 @@ Through my work, I try to visually and audibly reveal the existence of electroni
 
 <br/>
 <ul>
+<li><i><a href="https://instrumentsmakeplay.nl/8-december-2018-instruments-make-play-fair-in-worm-rotterdam/" target="blank">Instruments Make Play Fair</a>, WORM, Rotterdam, Netherlands, 08.Dec.2018</i></li>
 <li><i><a href="https://sign2.nl/" target="blank">Terzetto</a>, SIGN, Groningen, Netherlands, 03-25.Nov.2018</i></li>
 <li><i><a href="http://ujeongguk.com/forking-room/" target="blank">Forking Room: Your Smart Neighborhood</a>, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018</i></li>
 </ul>

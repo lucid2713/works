@@ -19,6 +19,7 @@ permalink: /cv/
 <ul>
 <strong>Exhibition / Performance</strong>
 
+<li>Instruments Make Play Fair, WORM, Rotterdam, Netherlands, 08.Dec.2018</li>
 <li>TutTotTud, Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</li>
 <li>Terzetto, SIGN, Groningen, Netherlands, 03-25.Nov.2018</li>
 <li>Forking Room: Your Smart Neighborhood, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018</li>
