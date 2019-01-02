@@ -36,5 +36,11 @@ Through my work, I try to visually and audibly reveal the existence of electroni
 <li><i><a href="https://sign2.nl/" target="blank">Terzetto</a>, SIGN, Groningen, Netherlands, 03-25.Nov.2018</i></li>
 <li><i><a href="http://ujeongguk.com/forking-room/" target="blank">Forking Room: Your Smart Neighborhood</a>, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018</i></li>
 </ul>
+<br/>
+<div class="img_row">
+<p align="middle">
+	<img class="img_poster" src="{{ site.baseurl }}/img/posters2.gif" alt="posters" title="posters"/>
+  </p>
+</div>
 
 <br/><br/><br/>
