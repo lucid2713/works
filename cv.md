@@ -4,21 +4,19 @@ title: CV
 permalink: /cv/
 ---
 
-
-<ul>
 <strong>Degree from Seoul National University, 2017</strong>
+<ul>
 <li>Bachelor of Arts in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a></li>
 <li>Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a></li>
 </ul>
-
-<ul>
 <strong>Supplementary education</strong>
+<ul>
 <li><a href="http://schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017</li>
 </ul>
+<br><br>
 
-<ul>
 <strong>Exhibition / Performance</strong>
-
+<ul>
 <li>The Train that Sailed (Winter Wel Vaart 2018), Theaterskip Bald'r, Groningen, Netherlands, 21.Dec.2018</li>
 <li>Instruments Make Play Fair, WORM, Rotterdam, Netherlands, 08.Dec.2018</li>
 <li>TutTotTud, Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</li>
@@ -31,9 +29,9 @@ permalink: /cv/
 <li>Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 26.05.2017</li>
 </ul>
 
-<ul>
+<br><br>
 <strong>Works</strong>
-
+<ul>
 <li>Playful Obsolescence, researching, creating and performing e-waste instrument, 2018</li>
 <li>Zine: My First Analog Synthesizer, Paper and online zine illustration building analog synthesizer with circuit bending, 2018</li>
 <li>Sonic Waste, performance with a circuit instrument, interactive e-waste and cello, 2018</li>

@@ -37,17 +37,21 @@ composed of interactive e-waste and analog circuit synthesizer.
 
 <br/>
 <p align="middle">
+<div class="video-container">
 <iframe src="https://player.vimeo.com/video/274627353" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 </p>
 <div class="img_row">
 <p align="middle">
 	<img class="img_gif" src="{{ site.baseurl }}/img/work_footage/sonicwaste_solo.gif" alt="solo play" title="solo play"/>
-	<!-- <i>Solo play only with e-waste instrument</i> -->
   </p>
 </div>
 
 <p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/APx7oDdLYCg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br/>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APx7oDdLYCg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<br/>
 <i>Shaky Grounds Festival, 08.06.2018</i><br/>
 <i>with the help of VJ Dianne Sarah</i>
 </p>

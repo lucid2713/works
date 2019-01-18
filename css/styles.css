@@ -1,12 +1,21 @@
 html {
   font-size: 16px;
-  /*font-family: monospace;*/
   font-family: 'Cutive Mono', monospace;
+}
+
+::-moz-selection{
+  background: #6706F1;
+  color: white;
+}
+::selection{
+  background: #6706F1;
+  color: white;
 }
 
 .sidebar {
   padding-top: 20px;
   position: fixed;
+  min-height: 2rem;
 }
 
 .logo {
@@ -50,8 +59,7 @@ html {
 }
 
 .wrapper h1 {
-  font-family: 'Noto Sans', sans-serif;
-  font-weight: 700;
+  font-family: 'Cutive Mono', monospace;
   font-size: 2.25rem;
   font-style: normal;
   margin-top: 0;
@@ -60,8 +68,8 @@ html {
 }
 
 .page-wrapper{
-  font-family: 'Noto Sans', sans-serif;
-  font-weight: 400;
+  /*font-family: 'Roboto', sans-serif;*/
+  font-family: 'Cutive Mono', monospace;
   /*line-height: 1.3em;*/
   line-height: 1.7em;
   max-width: 700px;
@@ -159,6 +167,7 @@ a {
 }
 
 .post-body {
+  font-family: 'Cutive Mono', monospace;
   line-height: 1.3em;
   max-width: 700px;
   padding-right: 20px;
@@ -191,7 +200,7 @@ a {
 
 blockquote {
   font-size: 1.2em;
-  font-style: italic;
+  /*font-style: italic;*/
   line-height: 1.5em;
   margin: 2em 0;
   padding: 0 1em;
@@ -200,6 +209,8 @@ blockquote {
 
 video {
   width: 100%;
+  max-width: 640px;
+  height: auto;
 }
 
 .video-container {
@@ -323,7 +334,7 @@ video {
   .sidebar {
     position: static;
     margin: auto;
-    max-width: 21rem;
+    max-width: 10rem;
   }
 
   .wrapper {
@@ -372,11 +383,23 @@ video {
     max-width: 100%;
     margin: 4rem auto 0;
   }
+
+  .post-body {
+    margin-left: 400px;
+  }
 }
 
-@media screen and (max-width: 33.125rem) {
+@media screen and (max-width: 916px) {
   .logo img {
     max-width: 60%;
+  }
+
+  .sidebar {
+    width: auto;
+  }
+
+  .post-body {
+    margin-left: auto;
   }
 }
 
