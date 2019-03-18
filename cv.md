@@ -3,7 +3,10 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-
+<strong>Master's course at Frank Mohr Institute (current)</strong>
+<ul>
+<li>MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>, 2017-</li>
+</ul>
 <strong>Degree from Seoul National University, 2017</strong>
 <ul>
 <li>Bachelor of Arts in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a></li>
@@ -33,6 +36,7 @@ permalink: /cv/
 <br><br>
 <strong>Works</strong>
 <ul>
+<li>Ritual for the digital world, live audio visual performance, 2018</li>
 <li>Playful Obsolescence, researching, creating and performing e-waste instrument, 2018</li>
 <li>Zine: My First Analog Synthesizer, Paper and online zine illustration building analog synthesizer with circuit bending, 2018</li>
 <li>Sonic Waste, performance with a circuit instrument, interactive e-waste and cello, 2018</li>

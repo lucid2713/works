@@ -5,13 +5,9 @@ permalink: /about/
 ---
 
 <p><b>
-My name is Mina.</b><br/><br/>
-Currently I'm studying for a master's degree in <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(media, art, design and technology)</a> at Frank Mohr Institute in Groningen, Netherlands.<br/>
-Before that, I majored in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a> and <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a> in the undergraduate in Seoul, Korea.
-</p>
-
+My name is Mina.</b></p>
 <p>
-I am interested in what is left behind as digital technology develops. I also try to discover the loopholes of technological developments by looking back at the problems which were overlooked - especially the environmental impact of these technological advances. Based on this view, I’m currently working on combining ‘research + creation + performance’ under the theme of ’Electronic Waste’.
+I am interested in what is left behind as digital technology develops.<br/> I also try to discover the loopholes of technological developments by looking back at the problems which were overlooked - especially the environmental impact of these technological advances. <br/>Based on this view, I’m currently working on combining ‘research + creation + performance’ under the theme of ’Electronic Waste’.
 </p>
 
 <p>

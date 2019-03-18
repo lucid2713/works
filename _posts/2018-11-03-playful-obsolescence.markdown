@@ -22,7 +22,7 @@ Work in progress of research, creation and performance on e-waste instrument.
 Through my work, I try to visually and audibly reveal the existence of electronic garbage - such as broken computer parts- that have gone out of our sight. They have lost their value as the interface they were previously designed as. Therefore I aim to re-discover a new ‘playful function’ out of the left circuits and components.
 
 
-<br> 
+<br>
 <p align="middle">
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/300018380?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
