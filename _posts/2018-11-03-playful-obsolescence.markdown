@@ -28,9 +28,19 @@ Through my work, I try to visually and audibly reveal the existence of electroni
 <iframe src="https://player.vimeo.com/video/300018380?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 </p>
+<p align="middle">
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/315482043" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <br/>
+Performance at SIGN gallery on 25th Nov.2018 <br/>
+feat. Lucija Gregov(cello)
+</p>
 
-***
+Special thanks to <a href="https://sign2.nl/" target="blank">SIGN</a> Groningen for supporting this work and performance.
+<br/><br/><br/>
+
+<hr>
 
 <br/>
 <ul>
