@@ -79,7 +79,7 @@ permalink: /cv/
 
 <hr/>
 <br/>
-<i>You can see CV in pdf <a href="https://lucid2713.github.io/pdfs/CVmina.pdf" target="blank">here</a>.</i>
+<i>You can see CV in pdf <a href="https://lucid2713.github.io/works/CVmina.pdf" target="blank">here</a>.</i>
 <br/>
 <i>Past <a href="https://lucid2713.github.io/about/" target="blank">CV</a></i>
 
