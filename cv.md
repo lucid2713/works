@@ -17,6 +17,7 @@ permalink: /cv/
 
 <strong>Exhibition / Performance</strong>
 <ul>
+<li>Stukafest, Groningen, Netherlands, 28.Feb.2019</li>
 <li>The Train that Sailed (Winter Wel Vaart 2018), Theaterskip Bald'r, Groningen, Netherlands, 21.Dec.2018</li>
 <li>Instruments Make Play Fair, WORM, Rotterdam, Netherlands, 08.Dec.2018</li>
 <li>TutTotTud, Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</li>
