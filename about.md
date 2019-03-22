@@ -1,19 +1,23 @@
 ---
 layout: page
-title: ABOUT
+title: MINA KIM
 permalink: /about/
 ---
 
-<p><b>
-My name is Mina.</b></p>
-<p>
-I am interested in what is left behind as digital technology develops.<br/> I also try to discover the loopholes of technological developments by looking back at the problems which were overlooked - especially the environmental impact of these technological advances. <br/>Based on this view, I’m currently working on combining ‘research + creation + performance’ under the theme of ’Electronic Waste’.
-</p>
 
-<p>
-I'm a member of project group '<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>', which is an experimental collaborative sound project.</p>
+<a href="http://mina-vitamina.net/" target="blank">Mina</a> (a.k.a. vitamina) is a researcher and performer.<br>
 
-<br/><br/>
+Her work explores leftovers from digital technology in ways of creative coding, circuit bending, hardware hacking, and audio visual performance.<br>
+
+Her in progress thesis investigates electronic waste and transforming it to a musical instrument in order to create new value and performance of dead gadgets.<br>
+
+Her practice based research embraces sociology, digital media studies, interactive media design and human computer interaction.<br>
+
+She is a member of ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’ - experimental sound project, and ‘<a href="https://www.facebook.com/resister.worm/" target="blank">RE#SISTER</a>’ - female/femme/non-binary electronic music & sound community.<br>
+
+Born in 1992, Busan, South Korea. Currently based in Groningen, Netherlands.
+<br><br>
+
 
 <!-- <address>
   <a href="mailto:lucid2713@gmail.com"><span class="icon email"></span>contact me</a>
