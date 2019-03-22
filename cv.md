@@ -3,45 +3,41 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<strong>Master's course at Frank Mohr Institute (current)</strong>
-<ul>
-<li>MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>, 2017-current</li>
-</ul>
+
+<h2>Education</h2>
+MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>, Frank Mohr Institute, 2017-current
+<br><br>
 <strong>Degree from Seoul National University, 2017</strong>
-<ul>
-<li>Bachelor of Arts in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a></li>
-<li>Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a></li>
-</ul>
+<br>
+Bachelor of Arts in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a>
+<br>
+Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>
+<br><br>
 <strong>Supplementary education</strong>
-<ul>
-<li><a href="http://schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017</li>
-</ul>
+<br>
+<a href="http://schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017
 <br><br>
 
-<strong>Exhibition / Performance</strong>
-<ul>
-<li>Stukafest, Groningen, Netherlands, 28.Feb.2019</li>
-<li>The Train that Sailed (Winter Wel Vaart 2018), Theaterskip Bald'r, Groningen, Netherlands, 21.Dec.2018</li>
-<li>Instruments Make Play Fair, WORM, Rotterdam, Netherlands, 08.Dec.2018</li>
-<li>TutTotTud, Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018</li>
-<li>Terzetto, SIGN, Groningen, Netherlands, 03-25.Nov.2018</li>
-<li>Forking Room: Your Smart Neighborhood, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018</li>
-<li>Shaky Grounds Festival, Academie Minerva, Groningen, Netherlands, 08-10.06.2018</li>
-<li>Betontegel(sound festival), Groningen, Netherlands, 18.05.2018</li>
-<li>Het Rumoer(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.04.2018</li>
-<li>OrbitFest, Synagoge Groningen, Groningen, Netherlands, 15-17.12.2017</li>
-<li>Final show of ‘Studies in Vibration’, Spektrum, Berlin, Germany, 26.05.2017</li>
-</ul>
 
-<br><br>
-<strong>Works</strong>
-<ul>
-<li>Ritual for the digital world, live audio visual performance, 2018</li>
-<li>Playful Obsolescence, researching, creating and performing e-waste instrument, 2018</li>
-<li>Zine: My First Analog Synthesizer, Paper and online zine illustration building analog synthesizer with circuit bending, 2018</li>
-<li>Sonic Waste, performance with a circuit instrument, interactive e-waste and cello, 2018</li>
-<li>The Future, Outdated, installation composed of electronic wastes, 2017</li>
-</ul>
+<h2>Participated Exhibitions/ Festivals(performance)</h2>
+
+2019<br>
+<b>Stukafest</b>, Groningen, Netherlands, 28.Feb. <br>
+<br>
+2018<br>
+<b>The Train that Sailed (Winter Wel Vaart 2018)</b>, Theaterskip Bald'r, Groningen, Netherlands, 21.Dec.<br>
+<b>Instruments Make Play Fair</b>, WORM, Rotterdam, Netherlands, 08.Dec.<br>
+<b>TutTotTud</b>, Grand Theatre, Groningen, Netherlands, 12-13.Nov.<br>
+<b>Terzetto</b>, SIGN, Groningen, Netherlands, 03-25.Nov.<br>
+<b>Forking Room: Your Smart Neighborhood</b>, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.<br>
+<b>Shaky Grounds Festival</b>, Academie Minerva, Groningen, Netherlands, 08-10.Jun.<br>
+<b>Betontegel</b>(sound festival), Groningen, Netherlands, 18.May<br>
+<b>Het Rumoer</b>(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.Apr.<br>
+<br>
+2017<br>
+<b>OrbitFest</b>, Synagoge Groningen, Groningen, Netherlands, 15-17.Dec.<br>
+<b>Final show of ‘Studies in Vibration’</b>, Spektrum, Berlin, Germany, 26.May<br>
+
 <br/>
 
 <hr/>
@@ -57,10 +53,6 @@ permalink: /cv/
 <tr>
 <td>Arduino</td>
 <td><i>advanced</i></td>
-</tr>
-<tr>
-<td>Raspberry Pi</td>
-<td><i>beginner</i></td>
 </tr>
 <tr>
 <td>MaxMSP</td>
