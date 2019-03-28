@@ -63,10 +63,6 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 <td><i>intermediate</i></td>
 </tr>
 <tr>
-<td>OpenFrameworks</td>
-<td><i>intermediate</i></td>
-</tr>
-<tr>
 <td>Github</td>
 <td><i>advanced</i></td>
 </tr>
