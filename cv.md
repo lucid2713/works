@@ -60,7 +60,7 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 </tr>
 <tr>
 <td>HTML CSS</td>
-<td><i>intermediate</i></td>
+<td><i>advanced</i></td>
 </tr>
 <tr>
 <td>Github</td>
