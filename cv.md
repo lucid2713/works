@@ -6,6 +6,7 @@ permalink: /cv/
 
 <h2>Education</h2>
 <strong>Degree from Frank Mohr Institute, 2019</strong>
+<br>
 MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>
 <br><br>
 <strong>Degree from Seoul National University, 2017</strong>
