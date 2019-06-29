@@ -5,7 +5,8 @@ permalink: /cv/
 ---
 
 <h2>Education</h2>
-MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>, Frank Mohr Institute, 2017-current
+<strong>Degree from Frank Mohr Institute, 2019</strong>
+MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>
 <br><br>
 <strong>Degree from Seoul National University, 2017</strong>
 <br>
@@ -22,6 +23,7 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 <h2>Participated Exhibitions/ Festivals(performance)</h2>
 
 2019<br>
+<b>(Un)formed, Graduation show Academie Minerva</b>, Suikerfabriek, Groningen, Netherlands, 22-27.Jun.<br>
 <b>Stukafest</b>, Groningen, Netherlands, 28.Feb. <br>
 <br>
 2018<br>
