@@ -36,6 +36,31 @@ Playful Obsolescence 2.0, e-waste musical instruments, Installation & Performanc
 <iframe src="https://player.vimeo.com/video/348121432" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 </p>
+<p align="middle">
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/349084172" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+</p>
+<p align="middle">
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/349094397" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+</p>
+<p align="middle">
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/349117568" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+</p>
+<p align="middle">
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/349189195" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+</p>
+<p align="middle">
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/349191992" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+</p>
 
 <br/><br/><br/>
 
