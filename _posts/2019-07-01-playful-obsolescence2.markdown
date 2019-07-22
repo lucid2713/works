@@ -8,8 +8,6 @@ Playful Obsolescence 2.0, e-waste musical instruments, Installation & Performanc
 ***
 
 <br/>
-<i>to be updated (videos and sounds)</i>
-<br/><br/>
 <div>
 <p align="middle">
 <img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1eMZkjKZ5rmc4h27zUCINoFyoes8-ayDv" alt="fmi graduation show" title="fmi graduation show"/>
