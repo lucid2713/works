@@ -9,7 +9,7 @@ permalink: /about/
 
 Her work explores leftovers from digital technology in ways of creative coding, circuit bending, hardware hacking, and audiovisual performance.<br>
 
-Her in progress research investigates electronic waste and transforming it into a musical instrument in order to create new value and performance of dead gadgets.<br>
+Her in-progress research deals with electronic waste under the theme of Anthropocene.<br>
 
 Her practice based research embraces sociology, digital media studies, interactive media design and human computer interaction.<br>
 
