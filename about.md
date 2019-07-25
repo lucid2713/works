@@ -15,7 +15,7 @@ Her practice based research embraces sociology, digital media studies, interacti
 
 She is a member of ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’ - experimental sound project, and ‘<a href="https://www.facebook.com/resister.worm/" target="blank">RE#SISTER</a>’ - female/femme/non-binary electronic music & sound community.<br>
 
-Born in South Korea. Currently based in Groningen, the Netherlands.
+Based in the Netherlands and South Korea.
 <br><br>
 
 
