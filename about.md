@@ -9,9 +9,9 @@ permalink: /about/
 
 Her work explores leftovers from digital technology in ways of creative coding, circuit bending, hardware hacking, and audiovisual performance.<br>
 
-Her in-progress research deals with electronic waste under the theme of Anthropocene.<br>
+Her in-progress practice-based research aims to find a way to coexist with digital debris in our digital society.<br>
 
-Her practice based research embraces sociology, digital media studies, interactive media design and human computer interaction.<br>
+Her background covers sociology, digital media studies, interactive media design, human-computer interaction, and fine art.<br>
 
 She is a member of ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’ - experimental sound project, and ‘<a href="https://www.facebook.com/resister.worm/" target="blank">RE#SISTER</a>’ - female/femme/non-binary electronic music & sound community.<br>
 
