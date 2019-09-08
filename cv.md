@@ -24,6 +24,7 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 <h2>Participated Exhibitions/ Festivals(performance)</h2>
 
 2019<br>
+<b>Gogbot festival 2019</b>, Enschede, Netherlands, 5-8.Sep.<br>
 <b>(Un)formed, Graduation show Academie Minerva</b>, Suikerfabriek, Groningen, Netherlands, 22-27.Jun.<br>
 <b>Stukafest</b>, Groningen, Netherlands, 28.Feb. <br>
 <br>
