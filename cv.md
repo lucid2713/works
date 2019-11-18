@@ -24,6 +24,7 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 <h2>Participated Exhibitions/ Festivals(performance)</h2>
 
 2019<br>
+<b>Technologie-kunstexpo, ECP jaar congres 2019</b>, Fokker Terminal, The Hague, Netherlands, 14.Nov.<br>
 <b>WeSA 2019</b>, Platform-L, Seoul, South Korea, 27-28.Sep.<br>
 <b>Gogbot festival 2019</b>, Enschede, Netherlands, 5-8.Sep.<br>
 <b>(Un)formed, Graduation show Academie Minerva</b>, Suikerfabriek, Groningen, Netherlands, 22-27.Jun.<br>

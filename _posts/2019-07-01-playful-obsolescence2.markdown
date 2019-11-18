@@ -69,6 +69,12 @@ Playful Obsolescence 2.0, e-waste musical instruments, Installation & Performanc
 <li>
 <i>(Un)Formed, Graduation show Academie Minerva, Suikerfabriek, Groningen, Netherlands, 22-27.Jun.2019</i>
 </li>
+<li>
+<i>Gogbot festival 2019, Suikerfabriek, Enschede, Netherlands, 5-8.Sep.2019</i>
+</li>
+<li>
+<i>Technologie-kunstexpo, ECP jaar congres 2019, Fokker Terminal, The Hague, Netherlands, 14.Nov.2019</i>
+</li>
 </ul>
 
 <br/><br/><br/>
