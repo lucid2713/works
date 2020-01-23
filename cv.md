@@ -23,6 +23,10 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 
 <h2>Participated Exhibitions/ Festivals(performance)</h2>
 
+2020<br>
+<b>TEC ART</b>, WORM, Rotterdam, Netherlands, 5-9.Feb.<br>
+<b>Grand Opening "The Magic of ARTificial Intelligence" by Women in AI</b>, Sofitel The Grand, Amsterdam, Netherlands, 27.Jan.<br>
+<br>
 2019<br>
 <b>Instruments Make Play Fair</b>, WORM, Rotterdam, Netherlands, 14.Dec.<br>
 <b>Technologie-kunstexpo, ECP jaar congres 2019</b>, Fokker Terminal, The Hague, Netherlands, 14.Nov.<br>
