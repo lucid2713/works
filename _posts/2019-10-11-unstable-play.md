@@ -12,10 +12,10 @@ Unstable Play, Performance, 2019
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VgJLvaYKQ8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br/>
+Performance video at <a href="https://www.wesa.kr/2019" target="blank">WeSA</a>2019 festival 
 </p>
 <br/>
-
-https://www.wesa.kr/festival
 
 >‘Unstable Play’ is an audiovisual performance by playing with e-waste instrument 'Playful Obsolescence.' The sounds from e-waste instruments are subtle, rough, and unstable. The performer plays with this instability and dedicates her performance to all the Wasted electronics and beings.
 
@@ -41,7 +41,6 @@ https://www.wesa.kr/festival
 <li><i>WeSA 2019, Platform-L, Seoul, South Korea, 27-28.Sep.2019</i></li>
 </ul>
 
-<br/>
 <div class="img_row">
 <p align="middle">
 	<img class="img_poster" src="http://drive.google.com/uc?export=view&id=1LSa0zaHmEj-C_bPxI-0YpTjSI-V1IMpM" alt="poster" title="poster"/>
