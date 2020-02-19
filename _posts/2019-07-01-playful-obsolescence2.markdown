@@ -75,6 +75,9 @@ Playful Obsolescence 2.0, e-waste musical instruments, Installation & Performanc
 <li>
 <i>Technologie-kunstexpo, ECP jaar congres 2019, Fokker Terminal, The Hague, Netherlands, 14.Nov.2019</i>
 </li>
+<li>
+<i>TEC ART, WORM, Rotterdam, Netherlands, 5-9.Feb.2020</i>
+</li>
 </ul>
 
 <br/><br/><br/>
