@@ -3,7 +3,7 @@ layout: post
 title: Unstable Play
 ---
 
-Unstable Play, Performance, 2019
+Unstable Play, Performance(15'), 2019
 
 ***
 
@@ -13,7 +13,7 @@ Unstable Play, Performance, 2019
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VgJLvaYKQ8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br/>
-Performance video at <a href="https://www.wesa.kr/2019" target="blank">WeSA</a>2019 festival 
+Performance video at <a href="https://www.wesa.kr/2019" target="blank">WeSA</a>2019 festival
 </p>
 <br/>
 
