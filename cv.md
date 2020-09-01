@@ -4,26 +4,10 @@ title: CV
 permalink: /cv/
 ---
 
-<h2>Education</h2>
-<strong>Degree from Frank Mohr Institute, 2019</strong>
-<br>
-MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>
-<br><br>
-<strong>Degree from Seoul National University, 2017</strong>
-<br>
-Bachelor of Arts in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a>
-<br>
-Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>
-<br><br>
-<strong>Supplementary education</strong>
-<br>
-<a href="http://schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017
-<br><br>
-
-
-<h2>Participated Exhibitions/ Festivals(performance)</h2>
+<h2>Participated Exhibition/ Festival(performance)</h2>
 
 2020<br>
+<b>RE:Search:Gallery RE:Discovery</b> residency presentation, NP3, Groningen, Netherlands, 26-29.Aug.<br>
 <b>TEC ART</b>, WORM, Rotterdam, Netherlands, 5-9.Feb.<br>
 <b>Grand Opening "The Magic of ARTificial Intelligence" by Women in AI</b>, Sofitel The Grand, Amsterdam, Netherlands, 27.Jan.<br>
 <br>
@@ -47,12 +31,18 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 <br>
 2017<br>
 <b>OrbitFest</b>, Synagoge Groningen, Groningen, Netherlands, 15-17.Dec.<br>
-<b>Final show of ‘Studies in Vibration’</b>, Spektrum, Berlin, Germany, 26.May<br>
+<b>Final show of ‘Studies in Vibration’</b>, Spektrum, Berlin, Germany, 26.May<br><br/>
 
-<br/>
+<h2>Workshop</h2>
+2020<br>
+<b>ZOOM-DIY-SOUND</b>, online workshop for e-waste analog synthesizer, Ilmin Museum of Art, Seoul, South Korea, 22-23.Aug.<br>
+
+2019<br>
+<b>Mini workshop for DIY e-waste instrument</b>, ETAT space, Groningen, Netherlands, 27.Apr.
+<br><br>
 
 <hr/>
-<table>
+<!-- <table>
 <tr>
 <th>Skills</th>
 <th> </th>
@@ -77,14 +67,29 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 <td>Github</td>
 <td><i>advanced</i></td>
 </tr>
-</table>
+</table> -->
 
+<h2>Education</h2>
+<strong>Degree from Frank Mohr Institute, 2019</strong>
+<br>
+MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>
+<br><br>
+<strong>Degree from Seoul National University, 2017</strong>
+<br>
+Bachelor of Arts in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a>
+<br>
+Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>
+<br><br>
+<strong>Supplementary education</strong>
+<br>
+<a href="http://schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017
+<br><br>
 
 <hr/>
 <br/>
-<i>You can see CV in pdf <a href="https://lucid2713.github.io/works/CVmina.pdf" target="blank">here</a>.</i>
+<i>CV for art career in <a href="https://lucid2713.github.io/works/CVmina.pdf" target="blank">pdf</a></i>
 <br/>
-<i>Past <a href="https://lucid2713.github.io/about/" target="blank">CV</a></i>
+<i>CV for job in<a href="https://lucid2713.github.io/works/CVjob_mina.pdf" target="blank">pdf</a></i>
 
 <br/><br/><br/>
 

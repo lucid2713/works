@@ -5,17 +5,17 @@ permalink: /about/
 ---
 
 
-<a href="http://mina-vitamina.net/" target="blank">Mina</a> (a.k.a. vitamina) is a researcher and performer.<br>
+<a href="http://mina-vitamina.net/" target="blank">Mina</a> is an artist, researcher, and performer, based in South Korea and the Netherlands.<br>
 
-Her work explores leftovers from digital technology in ways of creative coding, circuit bending, hardware hacking, and audiovisual performance.<br>
+She is interested in leftovers from digital technology and its relationship with the environment.<br>
 
-Her in-progress practice-based research aims to find a way to coexist with digital debris in our digital society.<br>
+By taking the method of practice-based research, she aims to find a way to coexist with digital debris in our digital society. Her works are presented in various forms, such as installation, audiovisual performance, online reports, and workshops.<br>
 
-Her background covers sociology, digital media studies, interactive media design, human-computer interaction, and fine art.<br>
+Her background covers sociology, interactive media design, human-computer interaction, and fine art.<br>
 
-She is a member of ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’ - experimental sound project, and ‘<a href="https://www.facebook.com/resister.worm/" target="blank">RE#SISTER</a>’ - female/femme/non-binary electronic music & sound community.<br>
+She is a member of ‘<a href="https://www.facebook.com/resister.worm/" target="blank">RE#SISTER</a>’-female/femme/non-binary electronic music & sound community, based in Rotterdam, the Netherlands.<br>
 
-Based in the Netherlands and South Korea.
+Under the name of Vitamina, she collaborates in ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’-an experimental sound project duo.
 <br><br>
 
 
