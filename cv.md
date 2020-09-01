@@ -33,6 +33,8 @@ permalink: /cv/
 <b>OrbitFest</b>, Synagoge Groningen, Groningen, Netherlands, 15-17.Dec.<br>
 <b>Final show of ‘Studies in Vibration’</b>, Spektrum, Berlin, Germany, 26.May<br><br/>
 
+<hr/>
+<br>
 <h2>Workshop</h2>
 2020<br>
 <b>ZOOM-DIY-SOUND</b>, online workshop for e-waste analog synthesizer, Ilmin Museum of Art, Seoul, South Korea, 22-23.Aug.<br>
