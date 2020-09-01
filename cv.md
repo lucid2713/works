@@ -68,7 +68,7 @@ permalink: /cv/
 <td><i>advanced</i></td>
 </tr>
 </table> -->
-
+<br>
 <h2>Education</h2>
 <strong>Degree from Frank Mohr Institute, 2019</strong>
 <br>
@@ -89,7 +89,7 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 <br/>
 <i>CV for art career in <a href="https://lucid2713.github.io/works/CVmina.pdf" target="blank">pdf</a></i>
 <br/>
-<i>CV for job in<a href="https://lucid2713.github.io/works/CVjob_mina.pdf" target="blank">pdf</a></i>
+<i>CV for job in <a href="https://lucid2713.github.io/works/CVjob_mina.pdf" target="blank">pdf</a></i>
 
 <br/><br/><br/>
 
