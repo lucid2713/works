@@ -37,6 +37,7 @@ permalink: /cv/
 <br>
 <h2>Workshop</h2>
 2020<br>
+<b>Data Cleansing Day</b>, online workshop for cleaning up digital data to reduce digital carbon footprint, NP3 gallery, Groningen, Netherlands, 03-04.Oct.<br>
 <b>ZOOM-DIY-SOUND</b>, online workshop for e-waste analog synthesizer, Ilmin Museum of Art, Seoul, South Korea, 22-23.Aug.<br>
 
 2019<br>
