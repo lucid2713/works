@@ -7,6 +7,7 @@ permalink: /cv/
 <h2>Participated Exhibition/ Festival(performance)</h2>
 
 2020<br>
+<b>Unscene2020</b> Vurt, Seoul, South Korea, 22-23.Dec.<br>
 <b>RE:Search:Gallery RE:Discovery</b> residency presentation, NP3, Groningen, Netherlands, 26-29.Aug.<br>
 <b>TEC ART</b>, WORM, Rotterdam, Netherlands, 5-9.Feb.<br>
 <b>Grand Opening "The Magic of ARTificial Intelligence" by Women in AI</b>, Sofitel The Grand, Amsterdam, Netherlands, 27.Jan.<br>
