@@ -329,6 +329,13 @@ video {
 .nav a:hover {
   text-decoration: underline;
 }
+footer{
+  text-align: left;
+  /* padding-left: 48px; */
+  margin-left: 410px;
+  padding: 10px;
+
+}
 
 @media screen and (max-width: 57.25rem) {
   .sidebar {
@@ -396,6 +403,11 @@ video {
   .post-body {
     margin-left: 400px;
   }
+  footer{
+    /* text-align: center; */
+    margin-left: auto;
+  }
+
 }
 
 @media screen and (max-width: 916px) {
@@ -409,6 +421,11 @@ video {
 
   .post-body {
     margin-left: auto;
+  }
+  footer{
+    padding: 0;
+    margin-left: auto;
+    text-align: center;
   }
 }
 
