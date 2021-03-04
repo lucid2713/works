@@ -37,6 +37,9 @@ permalink: /cv/
 <hr/>
 <br>
 <h2>Workshop</h2>
+2021<br>
+<b>Data Cleansing Workshop</b>, workshop for cleaning up digital data, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 27-28.Feb.<br>
+
 2020<br>
 <b>Data Cleansing Day</b>, online workshop for cleaning up digital data to reduce digital carbon footprint, NP3 gallery, Groningen, Netherlands, 03-04.Oct.<br>
 <b>ZOOM-DIY-SOUND</b>, online workshop for e-waste analog synthesizer, Ilmin Museum of Art, Seoul, South Korea, 22-23.Aug.<br>
