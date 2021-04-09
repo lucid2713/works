@@ -17,7 +17,7 @@ She is a member of ‘<a href="https://www.facebook.com/resister.worm/" target="
 
 Under the name of Vitamina, she collaborates in ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’-an experimental sound project duo.<br>
 
-She currently hosts a biweekly program TTVS(Time to Take Vitamin Sounds) on <a href="https://worm.org/" target="blank">Radio Worm</a>
+She currently hosts a biweekly program TTVS(Time to Take Vitamin Sounds) on <a href="https://worm.org/" target="blank">Radio Worm</a>.
 <br><br>
 
 
