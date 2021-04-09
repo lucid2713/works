@@ -15,7 +15,9 @@ Her background covers sociology, interactive media design, human-computer intera
 
 She is a member of ‘<a href="https://www.facebook.com/resister.worm/" target="blank">RE#SISTER</a>’-female/femme/non-binary electronic music & sound community, based in Rotterdam, the Netherlands.<br>
 
-Under the name of Vitamina, she collaborates in ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’-an experimental sound project duo.
+Under the name of Vitamina, she collaborates in ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’-an experimental sound project duo.<br>
+
+She currently hosts a biweekly program TTVS(Time to Take Vitamin Sounds) on <a href="https://worm.org/" target="blank">Radio Worm</a>
 <br><br>
 
 
