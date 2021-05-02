@@ -6,8 +6,11 @@ permalink: /cv/
 
 <h2>Participated Exhibition/ Festival(performance)</h2>
 
+2021<br>
+<b>A pop-up shop event for 'Data Cleansing Guide book'</b>, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 10-11.Apr.<br>
+<br>
 2020<br>
-<b>Unscene2020</b> Vurt, Seoul, South Korea, 22-23.Dec.<br>
+<b>Unscene2020</b>, Vurt, Seoul, South Korea, 22-23.Dec.<br>
 <b>RE:Search:Gallery RE:Discovery</b> residency presentation, NP3, Groningen, Netherlands, 26-29.Aug.<br>
 <b>TEC ART</b>, WORM, Rotterdam, Netherlands, 5-9.Feb.<br>
 <b>Grand Opening "The Magic of ARTificial Intelligence" by Women in AI</b>, Sofitel The Grand, Amsterdam, Netherlands, 27.Jan.<br>
@@ -41,6 +44,7 @@ permalink: /cv/
 <b>Data Cleansing Workshop</b>, workshop for cleaning up digital data, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 27-28.Feb.<br>
 
 2020<br>
+<b>circuit-bending pre-study: DIY e-waste analog synthesizer</b>, Woman Open Tech Lab, Seoul, South Korea, 31.Oct.<br>
 <b>Data Cleansing Day</b>, online workshop for cleaning up digital data to reduce digital carbon footprint, NP3 gallery, Groningen, Netherlands, 03-04.Oct.<br>
 <b>ZOOM-DIY-SOUND</b>, online workshop for e-waste analog synthesizer, Ilmin Museum of Art, Seoul, South Korea, 22-23.Aug.<br>
 
