@@ -7,7 +7,7 @@ permalink: /cv/
 <h2>Participated Exhibition/ Festival(performance)</h2>
 
 2021<br>
-<b>A pop-up shop event for 'Data Cleansing Guide book'</b>, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 10-11.Apr.<br>
+<b>A pop-up shop event for 'Data Cleansing Guide Book'</b>, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 10-11.Apr.<br>
 <br>
 2020<br>
 <b>Unscene2020</b>, Vurt, Seoul, South Korea, 22-23.Dec.<br>
@@ -81,6 +81,10 @@ permalink: /cv/
 </table> -->
 <br>
 <h2>Education</h2>
+<strong><a href="https://gses.snu.ac.kr/" target="blank">Seoul National University Graduate School of Environmental Studies</a>, 2021-current</strong>
+<br>
+Dept. of Environmental Planning(Master); Environmental Management
+<br><br>
 <strong>Degree from Frank Mohr Institute, 2019</strong>
 <br>
 MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>
