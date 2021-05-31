@@ -41,6 +41,7 @@ permalink: /cv/
 <br>
 <h2>Workshop</h2>
 2021<br>
+<b>Data Cleansing Day</b>, workshop for cleaning up digital data, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.<br>
 <b>Data Cleansing Workshop</b>, workshop for cleaning up digital data, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 27-28.Feb.<br>
 
 2020<br>
