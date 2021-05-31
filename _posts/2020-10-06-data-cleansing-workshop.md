@@ -48,7 +48,7 @@ The workshop has been further developed with the support of <a href="http://www.
 <li><i>Data Cleansing Workshop, SAPY, Seoul, South Korea, 27-28.02.2021</i></li>
 <li><i>A pop-up shop event for 'Data Cleansing Guide book', SAPY, Seoul, South Korea, 10-11.04.2021</i></li>
 <li>
-<i>Data Cleansing Day, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.</i></li>
+<i>Data Cleansing Day, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.2021</i></li>
 </ul>
 
 
