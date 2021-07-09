@@ -36,6 +36,6 @@ She currently hosts a biweekly program TTVS(Time to Take Vitamin Sounds) on <a h
 <!-- <td><a href="https://soundcloud.com/mina-vitamina" target="blank"><span class="icon soundcloud"></span>soundcloud</a></td> -->
 <!-- <td><a href="https://vimeo.com/vitamina" target="blank"><span class="icon vimeo"></span>vimeo</a></td> -->
 <td><a href="https://www.facebook.com/mina.kim.vitamina" target="blank"><span class="icon facebook"></span>facebook</a></td>
-<td><address><a href="mailto:lucid2713@gmail.com"><span class="icon email"></span>email</a></address></td>
+<td><address><a href="mailto:mina.vitamina@posteo.net"><span class="icon email"></span>email</a></address></td>
 </tr>
 </table>

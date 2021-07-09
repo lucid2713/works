@@ -111,7 +111,7 @@ Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information S
 
 
 <span class="contacticon center">
-	<a href="lucid2713@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="mina.vitamina@posteo.net"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/lucid2713/" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://vimeo.com/user38129979/videos" target="_blank"><i class="fa fa-vimeo-square"></i></a>
