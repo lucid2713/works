@@ -7,6 +7,7 @@ permalink: /cv/
 <h2>Participated Exhibition/ Festival(performance)</h2>
 
 2021<br>
+<b>dotolim concert 141</b>, , dotolim, Seoul, South Korea, 10.Dec.<br>
 <b>Unfold X 2021 - Digital Storytellers</b>, DDP(Dongdaemoon Design Plaza), Seoul, South Korea, 15-28.Nov.<br>
 <b>A pop-up shop event for 'Data Cleansing Guide Book'</b>, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 10-11.Apr.<br>
 <br>
