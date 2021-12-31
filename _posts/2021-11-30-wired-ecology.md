@@ -30,6 +30,14 @@ Project 'Wired Ecology' is an artistic research that reports a new aspect of dig
 </p>
 </div>
 
+<div>
+<p align="middle">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/661363702?h=5b7bcab169" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<br/>
+A part of clips from the video "Wired Ecology"(2021)
+</p>
+</div>
+
 <br/><br/><br/>
 
 ***
