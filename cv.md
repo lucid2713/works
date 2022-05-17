@@ -7,6 +7,7 @@ permalink: /cv/
 <h2>Participated Exhibition/ Festival(performance)</h2>
 2022<br>
 <b>hing' 01 (sound performance)</b>, Seoul, South Korea, 30.Apr.<br>
+<br>
 2021<br>
 <b>dotolim concert 141</b>, dotolim, Seoul, South Korea, 10.Dec.<br>
 <b>Unfold X 2021 - Digital Storytellers</b>, DDP(Dongdaemoon Design Plaza), Seoul, South Korea, 15-28.Nov.<br>
@@ -38,6 +39,7 @@ permalink: /cv/
 <h2>Workshop</h2>
 2022<br>
 <b>Cool Data Club</b>, workshop for cleaning up digital data, lab-for-small-earth, Suwon, South Korea, 7.May<br>
+
 2021<br>
 <b>Data Cleansing Day</b>, workshop for cleaning up digital data, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.<br>
 <b>Data Cleansing Workshop</b>, workshop for cleaning up digital data, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 27-28.Feb.<br>
