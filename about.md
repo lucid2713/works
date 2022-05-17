@@ -5,19 +5,17 @@ permalink: /about/
 ---
 
 
-<a href="http://mina-vitamina.net/" target="blank">Mina</a> is an artist, researcher, and performer, based in South Korea and the Netherlands.<br>
+<a href="http://mina-vitamina.net/" target="blank">Mina</a>(she/they) is an artist, researcher, and performer, based in South Korea.<br>
 
 She is interested in leftovers from digital technology and its relationship with the environment.<br>
 
 By taking the method of practice-based research, she aims to find a way to coexist with digital debris in our digital society. Her works are presented in various forms, such as installation, audiovisual performance, online reports, and workshops.<br>
 
-Her background covers sociology, interactive media design, human-computer interaction, and fine art.<br>
+Her background covers sociology, interactive media design, human-computer interaction, fine art, and environment.<br>
 
-She is a member of ‘<a href="https://www.facebook.com/resister.worm/" target="blank">RE#SISTER</a>’-female/femme/non-binary electronic music & sound community, based in Rotterdam, the Netherlands.<br>
+Under the name of Vitamina, she makes and plays sounds and collaborates in ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’-an experimental sound project duo.<br>
 
-Under the name of Vitamina, she collaborates in ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’-an experimental sound project duo.<br>
-
-She currently hosts a biweekly program TTVS(Time to Take Vitamin Sounds) on <a href="https://worm.org/" target="blank">Radio Worm</a>.
+She is a leading member of <a href="https://www.facebook.com/resister.korea" target="blank">Re#sister Korea</a>, a sisterhood of <a href="https://www.facebook.com/resister.worm/" target="blank">Re#sister Rotterdam</a>. Re#sister is a community for female/femme/non-binary people who enjoy and like to play with electronic & experimental sounds.
 <br><br>
 
 

@@ -5,9 +5,10 @@ permalink: /cv/
 ---
 
 <h2>Participated Exhibition/ Festival(performance)</h2>
-
+2022<br>
+<b>hing' 01 (sound performance)</b>, Seoul, South Korea, 30.Apr.<br>
 2021<br>
-<b>dotolim concert 141</b>, , dotolim, Seoul, South Korea, 10.Dec.<br>
+<b>dotolim concert 141</b>, dotolim, Seoul, South Korea, 10.Dec.<br>
 <b>Unfold X 2021 - Digital Storytellers</b>, DDP(Dongdaemoon Design Plaza), Seoul, South Korea, 15-28.Nov.<br>
 <b>A pop-up shop event for 'Data Cleansing Guide Book'</b>, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 10-11.Apr.<br>
 <br>
@@ -22,26 +23,21 @@ permalink: /cv/
 <b>Technologie-kunstexpo, ECP jaar congres 2019</b>, Fokker Terminal, The Hague, Netherlands, 14.Nov.<br>
 <b>WeSA 2019</b>, Platform-L, Seoul, South Korea, 27-28.Sep.<br>
 <b>Gogbot festival 2019</b>, Enschede, Netherlands, 5-8.Sep.<br>
-<b>(Un)formed, Graduation show Academie Minerva</b>, Suikerfabriek, Groningen, Netherlands, 22-27.Jun.<br>
-<b>Stukafest</b>, Groningen, Netherlands, 28.Feb. <br>
 <br>
 2018<br>
-<b>The Train that Sailed (Winter Wel Vaart 2018)</b>, Theaterskip Bald'r, Groningen, Netherlands, 21.Dec.<br>
 <b>Instruments Make Play Fair</b>, WORM, Rotterdam, Netherlands, 08.Dec.<br>
 <b>TutTotTud</b>, Grand Theatre, Groningen, Netherlands, 12-13.Nov.<br>
 <b>Terzetto</b>, SIGN, Groningen, Netherlands, 03-25.Nov.<br>
 <b>Forking Room: Your Smart Neighborhood</b>, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.<br>
-<b>Shaky Grounds Festival</b>, Academie Minerva, Groningen, Netherlands, 08-10.Jun.<br>
 <b>Betontegel</b>(sound festival), Groningen, Netherlands, 18.May<br>
 <b>Het Rumoer</b>(sound festival), WolkenFabriek, Groningen, Netherlands, 31.03-01.Apr.<br>
 <br>
-2017<br>
-<b>OrbitFest</b>, Synagoge Groningen, Groningen, Netherlands, 15-17.Dec.<br>
-<b>Final show of ‘Studies in Vibration’</b>, Spektrum, Berlin, Germany, 26.May<br><br/>
 
 <hr/>
 <br>
 <h2>Workshop</h2>
+2022<br>
+<b>Cool Data Club</b>, workshop for cleaning up digital data, lab-for-small-earth, Suwon, South Korea, 7.May<br>
 2021<br>
 <b>Data Cleansing Day</b>, workshop for cleaning up digital data, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.<br>
 <b>Data Cleansing Workshop</b>, workshop for cleaning up digital data, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 27-28.Feb.<br>
