@@ -36,6 +36,12 @@ Project 'Wired Ecology' is an artistic research that reports a new aspect of dig
 <br/>
 A part of clips from the video "Wired Ecology"(2021)
 </p>
+<br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/quWKGnm3gLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+A 'Wire image recognition training model' to train AI to recognize cables in pictures through a machine learning program
+</p>
 </div>
 
 <br/><br/><br/>
