@@ -94,9 +94,9 @@ MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADte
 <br><br>
 <strong>Degree from Seoul National University, 2017</strong>
 <br>
-Bachelor of Arts in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a>
+BA in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a>
 <br>
-Bachelor of Arts in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>
+BA in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>
 <br><br>
 <strong>Supplementary education</strong>
 <br>
