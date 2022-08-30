@@ -20,7 +20,7 @@ In a digital world where data can only be useful if it functions as valuable inf
 
 <div>
 <p align="middle">
-<img class="img_horizontal" src="/img/work_footage/jaelyogibeob01.png" alt="jaelyogibeob01.png" jaelyogibeob01"/>
+<img class="img_horizontal" src="/img/work_footage/jaelyogibeob01.png" alt="jaelyogibeob01.png" title="jaelyogibeob01"/>
 <br/>
 <img class="img_horizontal" src="/img/work_footage/jaelyogibeob02.png" alt="jaelyogibeob02.png" title="jaelyogibeob02"/>
 <br/>
