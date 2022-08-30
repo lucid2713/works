@@ -3,7 +3,7 @@ layout: post
 title: 재:료 기:법(Jae:Lyo-Gi:Beob)
 ---
 
-재:료 기:법(Jae:Lyo-Gi:Beob), website(https://jaelyo-gibeob.website/), 2022
+재:료 기:법(Jae:Lyo-Gi:Beob), website(<a href="https://jaelyo-gibeob.website/" target="blank">https://jaelyo-gibeob.website/</a>), 2022
 
 ***
 
