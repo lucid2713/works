@@ -34,7 +34,8 @@ In a digital world where data can only be useful if it functions as valuable inf
 <br/>
 </p>
 <p align="middle">
-Screen captured from website <a href="https://jaelyo-gibeob.website/" target="blank">Jae:Lyo-Gi:Beob</a>
+Screen captured from website <a href="https://jaelyo-gibeob.website/" target="blank">Jae:Lyo-Gi:Beob</a><br>
+This project is commissioned by 'Semacoral', Seoul Museum of Art.
 </p>
 </div>
 
