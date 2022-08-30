@@ -6,6 +6,7 @@ permalink: /cv/
 
 <h2>Participated Exhibition/ Festival(performance)</h2>
 2022<br>
+<b>창발, 진동, 소리(Emergent sound of oscillations)</b>,중력장, Seoul, South Korea, 27.Aug.<br>
 <b>흑석동의 낮과 밤</b>,중력장, Seoul, South Korea, 28.May<br>
 <b>hing' 01 (sound performance)</b>, Seoul, South Korea, 30.Apr.<br>
 <br>
