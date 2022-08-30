@@ -8,8 +8,7 @@ title: 재:료 기:법(Jae:Lyo-Gi:Beob)
 ***
 
 <br/>
->
-<Jae:Lyo-Gi:Beob> is a web archive that explores the possibility and value of art work by itself by giving a new unique identity to the material/technical data of the Seoul Museum of Art.<br>
+><Jae:Lyo-Gi:Beob> is a web archive that explores the possibility and value of art work by itself by giving a new unique identity to the material/technical data of the Seoul Museum of Art.<br>
 As unstructured data, material/technical information did not function as a search or keyword (as key data) in the collection list search window, and thus is difficult to utilize and analyze. Compared to the title of the work of art, information such as writers, and years, material/technical data that are not refined and catalogued seem to be a unique combination of words with different identities in themselves. Therefore, these material/technical information, consisting of similar and different words, was converted into AI-generated images, giving each material and technological information a unique image identity.<br>
 In a digital world where data can only be useful if it functions as valuable information, information on artwork can also be data, but unstructured data that is not refined may be considered garbage data. However, when incidental data that feels useless has its own identity, we will be able to value the existence of this data more independently and valuable.
 
@@ -34,7 +33,7 @@ In a digital world where data can only be useful if it functions as valuable inf
 <img class="img_horizontal" src="/img/work_footage/jaelyogibeob06.png" alt="jaelyogibeob06.png" title="jaelyogibeob06"/>
 <br/>
 </p>
-<p>
+<p align="middle">
 Screen captured from website <a href="https://jaelyo-gibeob.website/" target="blank">Jae:Lyo-Gi:Beob</a>
 </p>
 </div>
