@@ -40,6 +40,7 @@ permalink: /cv/
 <br>
 <h2>Workshop</h2>
 2022<br>
+<b>DIY E-Waste Synthesizer</b>, online workshop for e-waste analog synthesizer, Sonic Acts, Amsterdam, the Netherlands, 14.Oct.<br>
 <b>DIY E-Waste Synthesizer</b>, online workshop for e-waste analog synthesizer, Sonic Acts, Amsterdam, the Netherlands, 18.Jun.<br>
 <b>Cool Data Club</b>, workshop for cleaning up digital data, lab-for-small-earth, Suwon, South Korea, 7.May<br>
 
