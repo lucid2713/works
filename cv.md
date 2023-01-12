@@ -5,6 +5,9 @@ permalink: /cv/
 ---
 
 <h2>Participated Exhibition/ Festival(performance)</h2>
+2023<br>
+<b>Sweet Home</b>, SAPY, Seoul, South Korea, 07.Jan.<br>
+<br>
 2022<br>
 <b>D: D-D-D</b>, wrm space, Seoul, South Korea, 17-20.Nov.<br>
 <b>창발, 진동, 소리(Emergent sound of oscillations)</b>,중력장, Seoul, South Korea, 27.Aug.<br>
