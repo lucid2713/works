@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<a href="http://mina-vitamina.net/" target="blank">Mina</a>(she/they) is an artist, researcher, and performer, based in South Korea.<br>
+<a href="http://mina-vitamina.net/" target="blank">Mina</a>(she/her) is an artist, researcher, and performer, based in South Korea.<br>
 
 She is interested in leftovers from digital technology and its relationship with the environment.<br>
 
