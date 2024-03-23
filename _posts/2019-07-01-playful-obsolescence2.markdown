@@ -10,21 +10,21 @@ Playful Obsolescence 2.0, e-waste musical instruments, Installation & Performanc
 <br/>
 <div>
 <p align="middle">
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1eMZkjKZ5rmc4h27zUCINoFyoes8-ayDv" alt="fmi graduation show" title="fmi graduation show"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_01.jpeg" alt="PlayfulObsolescence_01.jpeg" title="PlayfulObsolescence_01.jpeg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=10nnZtLYE7dXMvnWuxEEbLtRt7to8fF1W" alt="fmi graduation show" title="fmi graduation show"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_02.jpeg" alt="PlayfulObsolescence_02.jpeg" title="PlayfulObsolescence_02.jpeg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1Z8dNTpf6jvwRLg62NvnZVupgDwehM9zR" alt="fmi graduation show" title="fmi graduation show"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_03.jpeg" alt="PlayfulObsolescence_03.jpeg" title="PlayfulObsolescence_03.jpeg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1_av8modmQplQBGqm7XP_pLMvmp7Lk8IT" alt="fmi graduation show" title="fmi graduation show"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_04.jpeg" alt="PlayfulObsolescence_04.jpeg" title="PlayfulObsolescence_04.jpeg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1c1o1L-RFgtOqv6K8fyTaFziGj9j8c2pw" alt="fmi graduation show" title="fmi graduation show"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_05.jpeg" alt="PlayfulObsolescence_05.jpeg" title="PlayfulObsolescence_05.jpeg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1_6eFPOyeDKQ7H7gLNZJ4zoTnHCt_BqnR" alt="fmi graduation show" title="fmi graduation show"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_06.jpeg" alt="PlayfulObsolescence_06.jpeg" title="PlayfulObsolescence_06.jpeg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1wa4hpAJ8DeRn1ak_nUuVM8UhT8yS4wi8" alt="fmi graduation show" title="fmi graduation show"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_07.jpeg" alt="PlayfulObsolescence_07.jpeg" title="PlayfulObsolescence_07.jpeg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1Asw0qxv0G8D8eXfgVOPK-xX29EyoLHww" alt="fmi graduation show" title="fmi graduation show"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_08.jpeg" alt="PlayfulObsolescence_08.jpeg" title="PlayfulObsolescence_08.jpeg"/>
 <br/>
 </p>
 </div>

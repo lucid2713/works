@@ -29,11 +29,11 @@ Performance video at Unscene2020 festival
 
 <div>
 <p align="middle">
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1RWUqf-EnjYDDFC7ah66No3umjciPbLpM" alt="wesa photo 1" title="wesa photo 1"/>
+<img class="img_horizontal" src="/img/work_footage/WeSA_2019_01.jpg" alt="WeSA_2019_01.jpg" title="WeSA_2019_01.jpg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1cE_UXkJmpJMl3px-UBGDQqqOXR7PAaM9" alt="wesa photo 2" title="wesa photo 2"/>
+<img class="img_horizontal" src="/img/work_footage/WeSA_2019_02.jpeg" alt="WeSA_2019_02.jpeg" title="WeSA_2019_02.jpeg"/>
 <br/>
-<img class="img_horizontal" src="http://drive.google.com/uc?export=view&id=1OZKfdGbWmkf-PlbWxPCQbIzC2Na6Tabv" alt="wesa photo 3" title="wesa photo 3"/>
+<img class="img_horizontal" src="/img/work_footage/WeSA_2019_03.jpg" alt="WeSA_2019_03.jpg" title="WeSA_2019_03.jpg"/>
 <br/>
 </p>
 </div>
