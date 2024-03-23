@@ -43,6 +43,17 @@ To see the result of the workshop, go to <a href="https://off-technology.website
 <ul>
 <li><i>workshop ZOOM-DIY-SOUND, via Zoom, Ilmin Museum of Art, Seoul, South Korea, 22-23.08.2020</i></li>
 <li><i>circuit-bending pre-study: DIY e-waste analog synthesizer, Woman Open Tech Lab, Seoul, South Korea, 31.10.2020</i></li>
+<li><i>DIY E-Waste Synthesizer, Sonic Acts, Amsterdam, the Netherlands, 18.06.2022</i></li>
+<li><i>DIY E-Waste Synthesizer, Sonic Acts, Amsterdam, the Netherlands, 14.10.2022</i></li>
 </ul>
+
+<div class="img_row">
+<p align="middle">
+	<img class="img_poster" src="/img/work_footage/ghost_coming_2020.png" alt="poster Ilmin Museum of Art" title="poster Ilmin Museum of Art"/>
+  <br/>
+  <img class="img_poster" src="/img/work_footage/SonicActs_mina.png" alt="poster Sonic Acts" title="poster Sonic Acts"/>
+	<br/>
+  </p>
+</div>
 
 <br/><br/><br/>

@@ -31,7 +31,7 @@ Performance video at Unscene2020 festival
 <p align="middle">
 <img class="img_horizontal" src="/img/work_footage/WeSA_2019_01.jpg" alt="WeSA_2019_01.jpg" title="WeSA_2019_01.jpg"/>
 <br/>
-<img class="img_horizontal" src="/img/work_footage/WeSA_2019_02.jpeg" alt="WeSA_2019_02.jpeg" title="WeSA_2019_02.jpeg"/>
+<img class="img_horizontal" src="/img/work_footage/WeSA_2019_02.jpg" alt="WeSA_2019_02.jpg" title="WeSA_2019_02.jpg"/>
 <br/>
 <img class="img_horizontal" src="/img/work_footage/WeSA_2019_03.jpg" alt="WeSA_2019_03.jpg" title="WeSA_2019_03.jpg"/>
 <br/>
@@ -45,14 +45,15 @@ Performance video at Unscene2020 festival
 <br/>
 <ul>
 <li><i>WeSA 2019, Platform-L, Seoul, South Korea, 27-28.Sep.2019</i></li>
+<li><i>Tec Art 2020, WORM, Rotterdam, the Netherlands, 05-09.Feb.2020.</i></li>
 <li><i>Unscene2020, Vurt, Seoul, South Korea, 22-23.Dec.2020.</i></li>
 </ul>
 
 <div class="img_row">
 <p align="middle">
-	<img class="img_poster" src="http://drive.google.com/uc?export=view&id=1LSa0zaHmEj-C_bPxI-0YpTjSI-V1IMpM" alt="poster" title="poster"/>
+	<img class="img_poster" src="/img/work_footage/wesaMina01.jpg" alt="poster" title="poster"/>
   <br/>
-  <img class="img_poster" src="http://drive.google.com/uc?export=view&id=16Igbu94fpa5mPW21cnteIDfkUEudGaIx" alt="poster" title="poster"/>
+  <img class="img_poster" src="/img/work_footage/tecart2020_2.jpg" alt="poster" title="poster"/>
 	<br/>
   <img class="img_poster" src="{{ site.baseurl }}/img/work_footage/un-scene_2020.jpg" alt="un-scene-poster" title="un-scene-poster"/>
   </p>

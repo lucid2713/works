@@ -51,5 +51,13 @@ The workshop has been further developed with the support of <a href="http://www.
 <i>Data Cleansing Day, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.2021</i></li>
 </ul>
 
+<div class="img_row">
+<p align="middle">
+	<img class="img_poster" src="/img/work_footage/DataCleansingWorkshop_MinaKim.png" alt="poster" title="poster"/>
+  <br/>
+  <img class="img_poster" src="/img/work_footage/0makes0_make.gif" alt="poster" title="poster"/>
+	<br/>
+  </p>
+</div>
 
 <br/><br/><br/>
