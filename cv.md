@@ -112,8 +112,7 @@ BA in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Cul
 <hr/>
 <br/>
 <i>CV for art career in <a href="https://lucid2713.github.io/works/CVmina.pdf" target="blank">pdf</a></i>
-<br/>
-<i>CV for job in <a href="https://lucid2713.github.io/works/CVjob_mina.pdf" target="blank">pdf</a></i>
+
 
 <br/><br/><br/>
 
