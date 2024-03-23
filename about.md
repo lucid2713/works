@@ -15,7 +15,7 @@ Her background covers sociology, interactive media design, human-computer intera
 
 Under the name of Vitamina, she makes and plays sounds and collaborates in ‘<a href="https://fruitfromtheforest.com/" target="blank">Fruit From the Forest</a>’-an experimental sound project duo.<br>
 
-She is a leading member of <a href="https://www.facebook.com/resister.korea" target="blank">Re#sister Korea</a>, a sisterhood of <a href="https://www.facebook.com/resister.worm/" target="blank">Re#sister Rotterdam</a>. Re#sister is a community for female/femme/non-binary people who enjoy and like to play with electronic & experimental sounds.
+She is a leading member of <a href="https://www.instagram.com/resister.korea/" target="blank">Re#sister Korea</a>, a sisterhood of <a href="https://www.facebook.com/resister.worm/" target="blank">Re#sister Rotterdam</a>. Re#sister is a community for female/femme/non-binary people who enjoy and like to play with electronic & experimental sounds.
 <br><br>
 
 
