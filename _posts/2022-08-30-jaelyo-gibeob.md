@@ -50,6 +50,11 @@ This project is commissioned by 'Semacoral', Seoul Museum of Art.
 <li><i><a href="http://semacoral.org/features/minakim-museum-collection-data-jaelyo-gibeob" target="blank">Semacoral website</a>, Seoul Museum of Art, Seoul, S.Korea, 29.Aug.2022</i></li>
 </ul>
 
-
+<div class="img_row">
+<p align="middle">
+	<img class="img_poster" src="/img/work_footage/semacoral_221026.jpg" alt="poster Semacoral" title="poster Semacoral"/>
+  <br/>
+  </p>
+</div>
 
 <br/><br/><br/>
