@@ -22,7 +22,7 @@ Playful Obsolescence 2.0, e-waste musical instruments, Installation & Performanc
 <br/>
 <img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_06.jpeg" alt="PlayfulObsolescence_06.jpeg" title="PlayfulObsolescence_06.jpeg"/>
 <br/>
-<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_07.jpeg" alt="PlayfulObsolescence_07.jpeg" title="PlayfulObsolescence_07.jpeg"/>
+<img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_07.jpeg" alt="PlayfulObsolescence_07.jpg" title="PlayfulObsolescence_07.jpeg"/>
 <br/>
 <img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_08.jpeg" alt="PlayfulObsolescence_08.jpeg" title="PlayfulObsolescence_08.jpeg"/>
 <br/>
