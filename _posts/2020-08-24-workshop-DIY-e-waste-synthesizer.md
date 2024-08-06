@@ -3,7 +3,7 @@ layout: post
 title: workshop DIY e-waste synthesizer
 ---
 
-Online workshop for e-waste analog synthesizer, 2020
+Online & On-site workshop for e-waste analog synthesizer, 2020-current
 
 ***
 
@@ -15,11 +15,11 @@ Workshop DIY e-waste synthesizer aims to make an analog synthesizer with electro
 </p>
 <p>
 <b>in-person</b><br>
-As one of the programs in the circuit-bending pre-study, the workshop was held at <a href="http://womanopentechlab.kr/" target="blank">Woman Open Tech Lab</a> in Seoul, South Korea.<br>
+As one of the programs in the circuit-bending pre-study, the workshop was held at multiple venues such as <a href="http://womanopentechlab.kr/" target="blank">Woman Open Tech Lab</a> in Seoul and other regions in South Korea.<br>
 </p>
 <p>
 <b>online</b><br>
-The workshop also can be done online! It was held with the name 'ZOOM-DIY-SOUND' on 22-23 August 2020, hosted by Ilmin Museum of Art in South Korea.
+The workshop also can be done online! It was held with the name 'ZOOM-DIY-SOUND' on 22-23 August 2020, hosted by Ilmin Museum of Art in South Korea. Not only in Korea, it's been also held multiple times online at 'Sonic Acts' in Amsterdam, the Netherlands.
 <br/>
 </p>
 <p>
@@ -45,6 +45,8 @@ To see the result of the workshop, go to <a href="https://off-technology.website
 <li><i>circuit-bending pre-study: DIY e-waste analog synthesizer, Woman Open Tech Lab, Seoul, South Korea, 31.10.2020</i></li>
 <li><i>DIY E-Waste Synthesizer, Sonic Acts, Amsterdam, the Netherlands, 18.06.2022</i></li>
 <li><i>DIY E-Waste Synthesizer, Sonic Acts, Amsterdam, the Netherlands, 14.10.2022</i></li>
+<li><i>DIY E-Waste Synthesizer, Ecological Futures, Powerplant, Seoul, South Korea, 19-21.07.2024</i></li>
+<li><i>DIY E-Waste Synthesizer, The Seoul Arts Learning center - Seoul Arts & Culture Education Center Yongsan, Seoul, South Korea, 26-27.07.2024</i></li>
 </ul>
 
 <div class="img_row">

@@ -47,6 +47,7 @@ Performance video at Unscene2020 festival
 <li><i>WeSA 2019, Platform-L, Seoul, South Korea, 27-28.Sep.2019</i></li>
 <li><i>Tec Art 2020, WORM, Rotterdam, the Netherlands, 05-09.Feb.2020.</i></li>
 <li><i>Unscene2020, Vurt, Seoul, South Korea, 22-23.Dec.2020.</i></li>
+<li><i>Ecological Futures, Powerplant, Seoul, South Korea, 19-21.Jul.2024</i></li>
 </ul>
 
 <div class="img_row">

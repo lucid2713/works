@@ -6,6 +6,7 @@ permalink: /cv/
 
 <h2>Participated Exhibition/ Festival(performance)</h2>
 2024<br>
+<b>Ecological Futures</b>, Powerplant, Seoul, South Korea, 19-21.Jul.<br>
 <b>Power Up Party - Fists and Roses</b>, LVHS itaewon, Seoul, South Korea, 08.Mar.<br>
 
 2023<br>
@@ -48,6 +49,10 @@ permalink: /cv/
 <hr/>
 <br>
 <h2>Workshop</h2>
+
+2024<br>
+<b>DIY E-Waste Synthesizer</b>, at 'The Seoul Arts Learning center', Seoul Arts & Culture Education Center Yongsan, Seoul, South Korea, 26-27.Jul.<br>
+<b>DIY E-Waste Synthesizer</b>, at 'Ecological Futures', Powerplant, Seoul, South Korea, 19-21.Jul.<br>
 
 2023<br>
 <b>Breaking-up with a Smartphone</b>, co-ordinated workshop with artist Taeyoon Choi, The 12th Seoul Mediacity Biennale, Seoul Museum of Art, Seoul, South Korea, 27-28.Oct.<br>

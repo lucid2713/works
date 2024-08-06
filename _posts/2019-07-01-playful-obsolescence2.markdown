@@ -78,6 +78,9 @@ Playful Obsolescence 2.0, e-waste musical instruments, Installation & Performanc
 <li>
 <i>TEC ART, WORM, Rotterdam, Netherlands, 5-9.Feb.2020</i>
 </li>
+<li>
+<i>Ecological Futures, Powerplant, Seoul, South Korea, 19-21.Jul.2024</i>
+</li>
 </ul>
 
 <br/><br/><br/>
