@@ -47,8 +47,9 @@ The workshop has been further developed with the support of <a href="http://www.
 <li><i>Workshop Data Cleansing Day, via Zoom, NP3, Groningen, Netherlands, 03-04.10.2020</i></li>
 <li><i>Data Cleansing Workshop, SAPY, Seoul, South Korea, 27-28.02.2021</i></li>
 <li><i>A pop-up shop event for 'Data Cleansing Guide book', SAPY, Seoul, South Korea, 10-11.04.2021</i></li>
-<li>
-<i>Data Cleansing Day, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.2021</i></li>
+<li><i>Data Cleansing Day, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.2021</i></li>
+<li><i>Cool Data Club, Lab for Small Earth; Suwon, South Korea, 7.May.2022</i></li>
+<li><i>Data Cleansing Workshop, Art Bowl Project; Uijeongbu, South Korea, 08.Aug.2024</i></li>
 </ul>
 
 <div class="img_row">

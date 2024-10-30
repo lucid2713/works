@@ -51,6 +51,7 @@ permalink: /cv/
 <h2>Workshop</h2>
 
 2024<br>
+<b>Data Cleansing Workshop</b>, at Art Bowl Project; Uijeongbu, South Korea, 08.Aug.<br>
 <b>DIY E-Waste Synthesizer</b>, at 'The Seoul Arts Learning center', Seoul Arts & Culture Education Center Yongsan, Seoul, South Korea, 26-27.Jul.<br>
 <b>DIY E-Waste Synthesizer</b>, at 'Ecological Futures', Powerplant, Seoul, South Korea, 19-21.Jul.<br>
 
