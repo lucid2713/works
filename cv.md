@@ -6,6 +6,7 @@ permalink: /cv/
 
 <h2>Participated Exhibition/ Festival(performance)</h2>
 2024<br>
+<b>The UNESCO Odyssey of Small-Souls Entities (Proletariat)</b>, Arts Korea Lab; Seoul, South Korea, 19-20.Dec.<br>
 <b>Ecological Futures</b>, Powerplant, Seoul, South Korea, 19-21.Jul.<br>
 <b>Power Up Party - Fists and Roses</b>, LVHS itaewon, Seoul, South Korea, 08.Mar.<br>
 

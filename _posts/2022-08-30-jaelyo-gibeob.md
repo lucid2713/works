@@ -3,7 +3,7 @@ layout: post
 title: 재:료 기:법(Jae:Lyo-Gi:Beob)
 ---
 
-재:료 기:법(Jae:Lyo-Gi:Beob), website(<a href="https://jaelyo-gibeob.website/" target="blank">https://jaelyo-gibeob.website/</a>), 2022
+재:료 기:법(Jae:Lyo-Gi:Beob), website(<a href="https://lucid2713.github.io/semacoral/" target="blank">https://jaelyo-gibeob.website/</a>), 2022
 
 ***
 
@@ -34,7 +34,7 @@ In a digital world where data can only be useful if it functions as valuable inf
 <br/>
 </p>
 <p align="middle">
-Screen captured from website <a href="https://jaelyo-gibeob.website/" target="blank">Jae:Lyo-Gi:Beob</a><br>
+Screen captured from website <a href="https://lucid2713.github.io/semacoral/" target="blank">Jae:Lyo-Gi:Beob</a><br>
 This project is commissioned by 'Semacoral', Seoul Museum of Art.
 </p>
 </div>
