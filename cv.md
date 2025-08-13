@@ -6,7 +6,7 @@ permalink: /cv/
 
 <h2>Participated Exhibition/ Festival(performance)</h2>
 2024<br>
-<b>The UNESCO Odyssey of Small-Souls Entities (Proletariat)</b>, Arts Korea Lab; Seoul, South Korea, 19-20.Dec.<br>
+<b>The UNESCO Odyssey of Small-Soul Entities (Proletariat)</b>, Arts Korea Lab; Seoul, South Korea, 19-20.Dec.<br>
 <b>Ecological Futures</b>, Powerplant, Seoul, South Korea, 19-21.Jul.<br>
 <b>Power Up Party - Fists and Roses</b>, LVHS itaewon, Seoul, South Korea, 08.Mar.<br>
 
@@ -50,6 +50,10 @@ permalink: /cv/
 <hr/>
 <br>
 <h2>Workshop</h2>
+
+2025<br>
+<b>다른 감각(들), 다른 삶(들), 다른 세계(들): 디지털-아날로그를 감각해보기, workshop about Art+Tech+Society</b> at College of
+Social Sciences, Seoul National University; Seoul, South Korea, 14,23,24.Jan.<br>
 
 2024<br>
 <b>Data Cleansing Workshop</b>, at Art Bowl Project; Uijeongbu, South Korea, 08.Aug.<br>
@@ -106,7 +110,7 @@ permalink: /cv/
 </table> -->
 <br>
 <h2>Education</h2>
-<strong><a href="https://gses.snu.ac.kr/" target="blank">Seoul National University Graduate School of Environmental Studies</a>, 2021-current</strong>
+<strong><a href="https://gses.snu.ac.kr/" target="blank">Seoul National University Graduate School of Environmental Studies</a>, 2021-2023(Master's coursework completed)</strong>
 <br>
 Dept. of Environmental Planning(Master); Environmental Management
 <br><br>
