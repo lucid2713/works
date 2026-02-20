@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Cleansing Workshop
+title: Data Cleansing Day
 ---
 
 Workshop for cleaning up digital data to reduce digital carbon footprint, 2020-2021
@@ -13,7 +13,7 @@ Workshop for cleaning up digital data to reduce digital carbon footprint, 2020-2
 </p></div>
 
 >
-‘Data Cleansing Workshop’ is an activity for organizing and emptying data such as documents, photos, and videos stacked and replicated(backed-up) in the personal computer, external hard drive, or cloud storage.<br/>
+‘Data Cleansing Day’ is an activity for organizing and emptying data such as documents, photos, and videos stacked and replicated(backed-up) in the personal computer, external hard drive, or cloud storage.<br/>
 Through this activity, we look back at the relationship between the vast amount of digital data we produce, save, replicate, and the physical digital infrastructures constructed to store what we make. The workshop aims not only to clean up our mind distracted by unorganized piled up files but also to get a clean emptied storage space. Furthermore, it is expected to contribute to producing much smaller data carbon footprints due to the reduced data storage.<br/>
 
 <br/>

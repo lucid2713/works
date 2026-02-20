@@ -4,6 +4,10 @@ title: CV
 permalink: /cv/
 ---
 
+<i>Download CV in <a href="https://lucid2713.github.io/works/CVmina.pdf" target="blank">PDF(EN)</a> or <a href="https://lucid2713.github.io/works/CVmina(KR).pdf" target="blank">PDF(KR)</a></i>
+<br>
+<hr/>
+
 <h2>Participated Exhibition/ Festival(performance)</h2>
 2024<br>
 <b>The UNESCO Odyssey of Small-Soul Entities (Proletariat)</b>, Arts Korea Lab; Seoul, South Korea, 19-20.Dec.<br>
@@ -129,9 +133,9 @@ BA in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Cul
 <a href="http://schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017
 <br><br>
 
-<hr/>
+<!-- <hr/>
 <br/>
-<i>CV for art career in <a href="https://lucid2713.github.io/works/CVmina.pdf" target="blank">pdf</a></i>
+<i>CV for art career in <a href="https://lucid2713.github.io/works/CVmina.pdf" target="blank">pdf</a></i> -->
 
 
 <br/><br/><br/>
