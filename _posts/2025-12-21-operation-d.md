@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operation D: In Search of the Lost D
+title: Operation D:In Search of the Lost D
 ---
 
 Operation D: In Search of the Lost D, Participatory Performance, 2025
