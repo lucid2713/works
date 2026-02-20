@@ -9,21 +9,26 @@ permalink: /cv/
 <hr/>
 
 <h2>Participated Exhibition/ Festival(performance)</h2>
-2024<br>
-<b>The UNESCO Odyssey of Small-Soul Entities (Proletariat)</b>, Arts Korea Lab; Seoul, South Korea, 19-20.Dec.<br>
-<b>Ecological Futures</b>, Powerplant, Seoul, South Korea, 19-21.Jul.<br>
-<b>Power Up Party - Fists and Roses</b>, LVHS itaewon, Seoul, South Korea, 08.Mar.<br>
 
+2026<br>
+<b>Research Project "Weaving the Energy" Outcome Sharing Showcase</b>, Powerplant; Seoul, South Korea, 29-30.Jan.2026<br>
+
+2025<br>
+<b>Operation D: In Search of the Lost D</b>, Participatory Performance, Space illi; Seoul, Project Aaay; Changwon, 23.Nov. & 21.Dec.2025, South Korea (in collaboration with Artist Yeon Sung)<br>
+2024<br>
+<b>The UNESCO Odyssey of Petty-Souled Beings (Proletariat)</b>, Arts Korea Lab; Seoul, South Korea, 19-20.Dec.<br>
+<b>Ecological Futures</b>, Powerplant, Seoul, South Korea, 19-21.Jul. (in collaboration with Ichi-lab.)<br>
+<b>Power Up Party - Fists and Roses</b>, LVHS itaewon, Seoul, South Korea, 08.Mar.<br>
 2023<br>
 <b>Arts Korea Lab Opening Festival</b>, Arts Korea Lab, Gwanghwamun Twin Tree Tower A, Seoul, South Korea, 25.Oct.<br>
 <b>New Music in Jeju 7</b>, The Obaekjanggun gallery, Jeju, South Korea, 02.Sep.<br>
 <b>Sweet Home</b>, SAPY, Seoul, South Korea, 07.Jan.<br>
 <br>
 2022<br>
-<b>D: D-D-D</b>, wrm space, Seoul, South Korea, 17-20.Nov.<br>
-<b>창발, 진동, 소리(Emergent sound of oscillations)</b>,중력장, Seoul, South Korea, 27.Aug.<br>
-<b>흑석동의 낮과 밤</b>,중력장, Seoul, South Korea, 28.May<br>
-<b>hing' 01 (sound performance)</b>, Seoul, South Korea, 30.Apr.<br>
+<b>D: D-D-D</b>, wrm space, Seoul, South Korea, 17-20.Nov. (in collaboration with Artist Yeon Sung)<br>
+<b>Emergent sound of oscillations</b>, MusicSpace Gravitational Field, Seoul, South Korea, 27.Aug.<br>
+<b>The Day and Night of Heukseok-dong</b>, MusicSpace Gravitational Field, Seoul, South Korea, 28.May<br>
+<b>hing' 01 (sound performance)</b>, Ururu, Seoul, South Korea, 30.Apr.<br>
 <br>
 2021<br>
 <b>dotolim concert 141</b>, dotolim, Seoul, South Korea, 10.Dec.<br>
@@ -56,7 +61,7 @@ permalink: /cv/
 <h2>Workshop</h2>
 
 2025<br>
-<b>다른 감각(들), 다른 삶(들), 다른 세계(들): 디지털-아날로그를 감각해보기, workshop about Art+Tech+Society</b> at College of
+<b>Different Sense(s), Different Life(s), Different World(s): Sensing digital-analog, workshop about Art+Tech+Society</b> at College of
 Social Sciences, Seoul National University; Seoul, South Korea, 14,23,24.Jan.<br>
 
 2024<br>
