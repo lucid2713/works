@@ -61,7 +61,7 @@ permalink: /cv/
 <br>
 
 <hr/>
-<br>
+
 <h2>Workshop</h2>
 
 2025<br>
@@ -121,7 +121,7 @@ Social Sciences, Seoul National University; Seoul, South Korea, 14,23,24.Jan.<br
 <td><i>advanced</i></td>
 </tr>
 </table> -->
-<br>
+
 <h2>Education</h2>
 <strong><a href="https://gses.snu.ac.kr/" target="blank">Seoul National University Graduate School of Environmental Studies</a>, 2021-2023(Master's coursework completed)</strong>
 <br>
