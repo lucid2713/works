@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Research Project Weaving the Energy
+redirect_to:
+- https://www.project-weaving-energy.website/
 ---
 
 Collaborative Artistic Research, Seminar, and Workshop, 2025—2026
