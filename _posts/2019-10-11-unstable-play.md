@@ -29,6 +29,8 @@ Performance video at Unscene2020 festival
 
 <div>
 <p align="middle">
+<img class="img_horizontal" src="/img/work_footage/split_release_album_2.jpg" alt="split_release_album_2.jpg" title="split_release_album_2.jpg"/>
+<br/>
 <img class="img_horizontal" src="/img/work_footage/WeSA_2019_01.jpg" alt="WeSA_2019_01.jpg" title="WeSA_2019_01.jpg"/>
 <br/>
 <img class="img_horizontal" src="/img/work_footage/WeSA_2019_02.jpg" alt="WeSA_2019_02.jpg" title="WeSA_2019_02.jpg"/>
