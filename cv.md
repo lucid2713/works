@@ -25,34 +25,31 @@ permalink: /cv/
 <b>Arts Korea Lab Opening Festival</b>, Arts Korea Lab, Gwanghwamun Twin Tree Tower A, Seoul, South Korea, 25.Oct.<br>
 <b>New Music in Jeju 7</b>, The Obaekjanggun gallery, Jeju, South Korea, 02.Sep.<br>
 <b>Sweet Home</b>, SAPY, Seoul, South Korea, 07.Jan.<br>
-<br>
 
 2022<br>
 <b>D: D-D-D</b>, wrm space, Seoul, South Korea, 17-20.Nov. (in collaboration with Artist Yeon Sung)<br>
 <b>Emergent sound of oscillations</b>, MusicSpace Gravitational Field, Seoul, South Korea, 27.Aug.<br>
 <b>The Day and Night of Heukseok-dong</b>, MusicSpace Gravitational Field, Seoul, South Korea, 28.May<br>
 <b>hing' 01 (sound performance)</b>, Ururu, Seoul, South Korea, 30.Apr.<br>
-<br>
 
 2021<br>
 <b>dotolim concert 141</b>, dotolim, Seoul, South Korea, 10.Dec.<br>
 <b>Unfold X 2021 - Digital Storytellers</b>, DDP(Dongdaemoon Design Plaza), Seoul, South Korea, 15-28.Nov.<br>
 <b>A pop-up shop event for 'Data Cleansing Guide Book'</b>, SAPY(Seoul Artists’ Platform New&Young), Seoul, South Korea, 10-11.Apr.<br>
-<br>
 
 2020<br>
 <b>Unscene2020</b>, Vurt, Seoul, South Korea, 22-23.Dec.<br>
 <b>RE:Search:Gallery RE:Discovery</b> residency presentation, NP3, Groningen, Netherlands, 26-29.Aug.<br>
 <b>TEC ART</b>, WORM, Rotterdam, Netherlands, 5-9.Feb.<br>
 <b>Grand Opening "The Magic of ARTificial Intelligence" by Women in AI</b>, Sofitel The Grand, Amsterdam, Netherlands, 27.Jan.<br>
-<br>
+
 
 2019<br>
 <b>Instruments Make Play Fair</b>, WORM, Rotterdam, Netherlands, 14.Dec.<br>
 <b>Technologie-kunstexpo, ECP jaar congres 2019</b>, Fokker Terminal, The Hague, Netherlands, 14.Nov.<br>
 <b>WeSA 2019</b>, Platform-L, Seoul, South Korea, 27-28.Sep.<br>
 <b>Gogbot festival 2019</b>, Enschede, Netherlands, 5-8.Sep.<br>
-<br>
+
 
 2018<br>
 <b>Instruments Make Play Fair</b>, WORM, Rotterdam, Netherlands, 08.Dec.<br>
