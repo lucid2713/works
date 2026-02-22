@@ -7,9 +7,13 @@ Participatory Performance(4h), 2025
 
 ***
 
+<br>
 <div>
-<p align="middle">A collaboration project by artist Yeon Sung and Mina Kim</p>
+<p align="middle">
+<i>A collaboration project by artist Yeon Sung and Mina Kim</i>
+</p>
 </div>
+<br>
 <div>
 <p align="middle">
 <img class="img_horizontal" src="/img/work_footage/operationD01.jpg" alt="operationD01.jpgg" title="operationD01.jpg"/>
