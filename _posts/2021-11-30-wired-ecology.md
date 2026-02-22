@@ -3,7 +3,7 @@ layout: post
 title: Wired Ecology
 ---
 
-Video, Multimedia Installation, Digital Archive, 2021
+Video(18'12"), Multimedia Installation, Digital Archive, 2021
 
 ***
 
