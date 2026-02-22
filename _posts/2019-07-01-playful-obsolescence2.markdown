@@ -10,19 +10,21 @@ Playful Obsolescence, e-waste musical instruments, Installation & Performance(15
 <br/>
 <div>
 <p align="middle">
-<img class="img_horizontal" src="/img/work_footage/ecological-futures-mina.jpg" alt="ecological-futures-mina.jpg" title="ecological-futures-mina.jpg"/>
+<img class="img_horizontal" src="/img/work_footage/ecological-futures-mina.jpg" alt="ecological-futures-mina.jpg" title="ecological-futures-mina.jpg"/></p>
 <br/>
-
 <p align="middle">
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/300018380?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-</p><br>
+</p></div>
+<br/>
 
-> Nowadays digital devices around us are becoming smarter and more complex. Devices with new functionalities and better performance are coming out on the market at a faster rate than ever. However, I have always wondered where the old, outdated, or deceased stuff have gone. Even though those old gadgets disappear from our interest, they still exist somewhere around us, causing various environmental, societal and ethical problems.
+
+>
+Nowadays digital devices around us are becoming smarter and more complex. Devices with new functionalities and better performance are coming out on the market at a faster rate than ever. However, I have always wondered where the old, outdated, or deceased stuff have gone. Even though those old gadgets disappear from our interest, they still exist somewhere around us, causing various environmental, societal and ethical problems.
 Through my work, I try to visually and audibly reveal the existence of electronic garbage - such as broken computer parts- that have gone out of our sight. They have lost their value as the interface they were previously designed as. Therefore I aim to re-discover a new ‘playful function’ out of the left circuits and components.
 
-<br>
+
+<br/>
 <div>
 <p align="middle">
 <img class="img_horizontal" src="/img/work_footage/PlayfulObsolescence_01.jpeg" alt="PlayfulObsolescence_01.jpeg" title="PlayfulObsolescence_01.jpeg"/>

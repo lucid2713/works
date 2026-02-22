@@ -7,7 +7,7 @@ Participatory Performance(4h), 2025
 
 ***
 
-<br>
+
 <div>
 <p align="middle">
 <i>A collaboration project by artist Yeon Sung and Mina Kim</i>
