@@ -42,7 +42,7 @@ Participants become agents rather than spectators—equipped with self-made trac
 
 <div>
 <p align="middle"><br/>
-This project expands upon the critical inquiry developed in the previous work 《D-D-D (Document–DIY–Demonstrate)》. While the earlier project experimented with measuring fine dust through guerrilla performances using DIY devices, this iteration evolves that experiment into a game-based and narrative form. By doing so, it seeks to re-expose the invisibility of a now-familiar crisis and to explore new ecological relationships entangling dust, humans, and non-human entities.
+This project expands upon the critical inquiry developed in the previous work 《D:D-D-D (Document–DIY–Demonstrate)》. While the earlier project experimented with measuring fine dust through guerrilla performances using DIY devices, this iteration evolves that experiment into a game-based and narrative form. By doing so, it seeks to re-expose the invisibility of a now-familiar crisis and to explore new ecological relationships entangling dust, humans, and non-human entities.
 </p>
 </div>
 <br/><br/>
