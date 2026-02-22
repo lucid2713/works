@@ -51,9 +51,9 @@ To see the result of the workshop, go to <a href="https://off-technology.website
 
 <div class="img_row">
 <p align="middle">
-	<img class="img_poster" src="/img/work_footage/ghost_coming_2020.png" alt="poster Ilmin Museum of Art" title="poster Ilmin Museum of Art"/>
+	<img class="img_poster" src="/img/poster/ghost_coming_2020.png" alt="poster Ilmin Museum of Art" title="poster Ilmin Museum of Art"/>
   <br/>
-  <img class="img_poster" src="/img/work_footage/SonicActs_mina.png" alt="poster Sonic Acts" title="poster Sonic Acts"/>
+  <img class="img_poster" src="/img/poster/SonicActs_mina.png" alt="poster Sonic Acts" title="poster Sonic Acts"/>
 	<br/>
   </p>
 </div>

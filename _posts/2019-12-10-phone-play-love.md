@@ -3,7 +3,7 @@ layout: post
 title: Phone Play Love
 ---
 
-Phone Play Love, Radio piece(28'02''), 2019
+Radio piece(28'02''), 2019
 
 ***
 

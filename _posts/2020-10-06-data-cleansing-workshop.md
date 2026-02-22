@@ -3,7 +3,7 @@ layout: post
 title: Data Cleansing Day
 ---
 
-Workshop for cleaning up digital data to reduce digital carbon footprint, 2020-2021
+Workshop and a guide book for cleaning up digital data to reduce digital carbon footprint, 2020-2021
 
 ***
 
@@ -27,8 +27,14 @@ What to prepare?
 
 <br/>
 <div><p align="middle">
-<img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/dcgb-pm-img.jpg" alt="data-cleansing-guide-book_img.jpg" title="data cleansing guide book image"/>
-</p></div>
+<img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/dcgb-pm-img.jpg" alt="data-cleansing-guide-book_img.jpg" title="data cleansing guide book image"/><br>
+<img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/data-cleansing-guide-book01.jpg" alt="data-cleansing-guide-book01.jpg" title="data-cleansing-guide-book01.jpg"/>
+<br>
+<img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/data-cleansing-guide-book02.jpg" alt="data-cleansing-guide-book02.jpg" title="data-cleansing-guide-book02.jpg"/>
+<br>
+<img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/data-cleansing-guide-book03.jpg" alt="data-cleansing-guide-book03.jpg" title="data-cleansing-guide-book03.jpg"/>
+</p>
+</div>
 
 <br/>
 <p>
@@ -44,19 +50,19 @@ The workshop has been further developed with the support of <a href="http://www.
 
 <br/>
 <ul>
-<li><i>Workshop Data Cleansing Day, via Zoom, NP3, Groningen, Netherlands, 03-04.10.2020</i></li>
-<li><i>Data Cleansing Workshop, SAPY, Seoul, South Korea, 27-28.02.2021</i></li>
-<li><i>A pop-up shop event for 'Data Cleansing Guide book', SAPY, Seoul, South Korea, 10-11.04.2021</i></li>
-<li><i>Data Cleansing Day, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.2021</i></li>
-<li><i>Cool Data Club, Lab for Small Earth; Suwon, South Korea, 7.May.2022</i></li>
 <li><i>Data Cleansing Workshop, Art Bowl Project; Uijeongbu, South Korea, 08.Aug.2024</i></li>
+<li><i>Cool Data Club, Lab for Small Earth; Suwon, South Korea, 7.May.2022</i></li>
+<li><i>Data Cleansing Day, Zero Makes Zero & Woman Open Tech Lab, Seoul, South Korea, 30.May&06.Jun.2021</i></li>
+<li><i>A pop-up shop event for 'Data Cleansing Guide book', SAPY, Seoul, South Korea, 10-11.04.2021</i></li>
+<li><i>Data Cleansing Workshop, SAPY, Seoul, South Korea, 27-28.02.2021</i></li>
+<li><i>Workshop Data Cleansing Day, via Zoom, NP3, Groningen, Netherlands, 03-04.10.2020</i></li>
 </ul>
 
 <div class="img_row">
 <p align="middle">
-	<img class="img_poster" src="/img/work_footage/DataCleansingWorkshop_MinaKim.png" alt="poster" title="poster"/>
+	<img class="img_poster" src="/img/poster/DataCleansingWorkshop_MinaKim.png" alt="poster" title="poster"/>
   <br/>
-  <img class="img_poster" src="/img/work_footage/0makes0_make.gif" alt="poster" title="poster"/>
+  <img class="img_poster" src="/img/poster/0makes0_make.gif" alt="poster" title="poster"/>
 	<br/>
   </p>
 </div>

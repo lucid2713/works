@@ -3,9 +3,20 @@ layout: post
 title: Unstable Play
 ---
 
-Unstable Play, Performance(15'), 2019
+Performance(15'), 2019-current
 
 ***
+
+<div>
+<p align="middle">
+<img class="img_horizontal" src="/img/work_footage/unstable-play-eco2024.jpg" alt="unstable-play-eco2024.jpg" title="unstable-play-eco2024.jpg"/>
+</p>
+</div>
+<br/>
+
+>‘Unstable Play’ is an audiovisual performance by playing with e-waste instrument 'Playful Obsolescence.' The sounds from e-waste instruments are subtle, rough, and unstable. The performer plays with this instability and dedicates her performance to all the Wasted electronics and beings.
+
+<br/>
 
 <br/>
 <p align="middle">
@@ -23,13 +34,16 @@ Performance video at <a href="https://www.wesa.kr/2019" target="blank">WeSA</a>2
 Performance video at Unscene2020 festival
 <br/>
 
->‘Unstable Play’ is an audiovisual performance by playing with e-waste instrument 'Playful Obsolescence.' The sounds from e-waste instruments are subtle, rough, and unstable. The performer plays with this instability and dedicates her performance to all the Wasted electronics and beings.
-
-<br/>
 
 <div>
 <p align="middle">
-<img class="img_horizontal" src="/img/work_footage/split_release_album_2.jpg" alt="split_release_album_2.jpg" title="split_release_album_2.jpg"/>
+<img class="img_horizontal" src="/img/work_footage/split_release_album_2.jpg" alt="split_release_album_2.jpg" title="split_release_album_2.jpg"/><br>
+<p align="middle">
+A split tape album of performance ‘Unstable Play’ recorded from WeSA2019 festival. <br>
+Released by <a href=" https://cultlovesoundtapes.bandcamp.com/"  target="blank">Cult Love X Unheard Records</a>, Oklahoma, USA, 01.Nov.2021
+</p>
+</div>
+<div>
 <br/>
 <img class="img_horizontal" src="/img/work_footage/WeSA_2019_01.jpg" alt="WeSA_2019_01.jpg" title="WeSA_2019_01.jpg"/>
 <br/>
@@ -54,11 +68,11 @@ Performance video at Unscene2020 festival
 
 <div class="img_row">
 <p align="middle">
-	<img class="img_poster" src="/img/work_footage/wesaMina01.jpg" alt="poster" title="poster"/>
+	<img class="img_poster" src="/img/poster/wesaMina01.jpg" alt="poster" title="poster"/>
   <br/>
-  <img class="img_poster" src="/img/work_footage/tecart2020_2.jpg" alt="poster" title="poster"/>
+  <img class="img_poster" src="/img/poster/tecart2020_2.jpg" alt="poster" title="poster"/>
 	<br/>
-  <img class="img_poster" src="{{ site.baseurl }}/img/work_footage/un-scene_2020.jpg" alt="un-scene-poster" title="un-scene-poster"/>
+  <img class="img_poster" src="{{ site.baseurl }}/img/poster/un-scene_2020.jpg" alt="un-scene-poster" title="un-scene-poster"/>
   </p>
 </div>
 

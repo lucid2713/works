@@ -9,15 +9,19 @@ Online radio program, Radio WORM, 2021-2022
 
 <br/>
 >
-Vitamina(aka. Mina Kim) presents 'vitaminful'(= electroacoustic, eccentric, and experimental) sounds from South Korea.
+'TTVS' - Time to Take Vitamin Sounds is bi-weekly radio program broadcasting by Vitamina. The radio presents vitaminful sounds, which means electroacoustic, eccentric, and experimental sounds from South Korean musicians and artists.
 
 
 <br/>
-<div><p align="middle">
+<div>
+<p align="middle">
 <img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/ttvs-logo-img.jpg" alt="ttvs-logo-img.jpg" title="ttvs-logo-img.jpg"/>
-</p></div>
+</p>
+<p align="middle">
+The list of TTVS is composed in collaboration with VOID, the venue for electronic music in Busan, South Korea. 
+<p>
+</div>
 
-<br/>
 <br/>
 
 ***

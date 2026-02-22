@@ -3,7 +3,7 @@ layout: post
 title: Wired Ecology
 ---
 
-Wired Ecology, Video, Multimedia Installation, 2021
+Video, Multimedia Installation, Digital Archive, 2021
 
 ***
 
@@ -31,6 +31,20 @@ Project 'Wired Ecology' is an artistic research that reports a new aspect of dig
 </div>
 
 <div>
+<p align="middle"><br/>
+A future digital society is o1en portrayed as neat and streamlined. A bunch of knotted wires may not be found in this portrayal. Long, tangled and unaesthetic wires are technology infrastructure which do not fit in the future digital world. Transitioning to a wireless society must be one of the important tasks of current digital technology development. Many research centers focus on developing state-of-the-art technology that enables ‘wireless’ connection. Undergrounding, which removes utility poles on the street and buries tangled wires in the ground, is a critical part of urban development planning. However, networks and power supplies still require physical cables to run digital society. Contrary to the recent movement of undergrounding projects in the cities, the governments of each country and giant tech companies build more and more cable systems on the sea bed and underground for more stable networks, power supplies and be9er security.
+</p>ㄴ
+<p align="middle">
+Have you paid attention to the numerous cables around us? Cables that operate the current digital society are removed from our sight, hidden underground, placed on the bottom of the sea, or concealed inside buildings. They become a natural part of the environment, and people of modern society do not notice their existence even if they are completely exposed. Still, plants, animals, earth, water and air, as well as humans all interact with digital cables in many different ways.
+</p>
+<p align="middle">
+Wired Ecology is a research project that collects and records various data of wires and visualizes the unnoticed, unrecognized cables of the digital world. This research views cables as a part of the environment and ecosystem. These records and data are presented through the form of documentary, digital archives and media archaeology archiving installation. The artist constructs a present database of cables and goes further by suggesting the audience to imagine a new ecosystem of cables or its disappearance in the future digital world.
+</p>
+</div>
+
+<br/><br/>
+
+<div>
 <p align="middle">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/661363702?h=5b7bcab169" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 <br/>
@@ -56,7 +70,7 @@ A 'Wire image recognition training model' to train AI to recognize cables in pic
 <br/>
 <div class="img_vertical">
 <p align="middle">
-	<img class="img_poster" src="{{ site.baseurl }}/img/unfoldx2021.jpeg" alt="poster" title="poster"/>
+	<img class="img_poster" src="{{ site.baseurl }}/img/poster/unfoldx2021.jpeg" alt="poster" title="poster"/>
   </p>
 </div>
 

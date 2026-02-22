@@ -3,7 +3,7 @@ layout: post
 title: off technology R&D
 ---
 
-off technology R&D - N.1 e-waste : hardware
+Research Note, Webpage, 2019
 
 ***
 

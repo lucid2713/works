@@ -3,15 +3,13 @@ layout: post
 title: Operation D:In Search of the Lost D
 ---
 
-Operation D: In Search of the Lost D, Participatory Performance, 2025
+Participatory Performance(4h), 2025
 
 ***
 
-<br/>
->
-The game-performance program Operation D: In Search of the Lost D is a participatory project in which players, time-travelers from the near-future Anthropocene back to the year 2025, are tasked with tracing the lost “D” (dust) within a limited timeframe. The program consists of two parts: (1) a DIY workshop where participants design and build their own tracking devices, and (2) a live role-playing performance in which they embark on a mission through real urban spaces wearing the devices they created. <br/>
-Participants become agents rather than spectators—equipped with self-made trackers, they take on the role of dust chasers who sense D (fine dust) not as mere pollution but as an ecological being. Through performances set in actual city environments such as Seoul and Changwon, the project questions the authority of centralized government measurement systems and official data, exploring how D intertwines with the social and political structures of local environments.
-
+<div>
+<p align="middle">A collaboration project by artist Yeon Sung and Mina Kim</p>
+</div>
 <div>
 <p align="middle">
 <img class="img_horizontal" src="/img/work_footage/operationD01.jpg" alt="operationD01.jpgg" title="operationD01.jpg"/>
@@ -23,6 +21,20 @@ Participants become agents rather than spectators—equipped with self-made trac
 <img class="img_horizontal" src="/img/work_footage/operationD04.jpg" alt="operationD04.jpg" title="operationD04.jpg"/>
 </p>
 </div>
+
+<br/>
+>
+The game-performance program Operation D: In Search of the Lost D is a participatory project in which players, time-travelers from the near-future Anthropocene back to the year 2025, are tasked with tracing the lost “D” (dust) within a limited timeframe. The program consists of two parts: (1) a DIY workshop where participants design and build their own tracking devices, and (2) a live role-playing performance in which they embark on a mission through real urban spaces wearing the devices they created. <br/>
+Participants become agents rather than spectators—equipped with self-made trackers, they take on the role of dust chasers who sense D (fine dust) not as mere pollution but as an ecological being. Through performances set in actual city environments such as Seoul and Changwon, the project questions the authority of centralized government measurement systems and official data, exploring how D intertwines with the social and political structures of local environments.
+
+
+
+<br/>
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0y--rqsds6Q?si=iU2l8Ekmhk79QiqT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+
 
 <div>
 <p align="middle"><br/>
