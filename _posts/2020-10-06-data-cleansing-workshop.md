@@ -60,10 +60,12 @@ The workshop has been further developed with the support of <a href="http://www.
 
 <div class="img_row">
 <p align="middle">
-	<img class="img_poster" src="/img/poster/DataCleansingWorkshop_MinaKim.png" alt="poster" title="poster"/>
-  <br/>
-  <img class="img_poster" src="/img/poster/0makes0_make.gif" alt="poster" title="poster"/>
+	<img class="img_poster" src="/img/poster/Cool_data_club.jpg" alt="Cool_data_club.jpg" title="Cool_data_club.jpg"/>
 	<br/>
+	<img class="img_poster" src="/img/poster/0makes0_make.gif" alt="0makes0_make.gif" title="0makes0poster"/>
+	<br/>
+	<img class="img_poster" src="/img/poster/DataCleansingWorkshop_MinaKim.png" alt="poster" title="poster"/>
+
   </p>
 </div>
 
