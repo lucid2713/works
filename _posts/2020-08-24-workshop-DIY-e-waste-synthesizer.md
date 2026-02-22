@@ -14,11 +14,11 @@ Workshop DIY e-waste synthesizer aims to make an analog synthesizer with electro
 <br><br>
 </p>
 <p>
-<b>in-person</b><br>
+<i>in-person</i><br>
 As one of the programs in the circuit-bending pre-study, the workshop was held at multiple venues such as <a href="http://womanopentechlab.kr/" target="blank">Woman Open Tech Lab</a> in Seoul and other regions in South Korea.<br>
 </p>
 <p>
-<b>online</b><br>
+<i>online</i><br>
 The workshop also can be done online! It was held with the name 'ZOOM-DIY-SOUND' on 22-23 August 2020, hosted by Ilmin Museum of Art in South Korea. Not only in Korea, it's been also held multiple times online at 'Sonic Acts' in Amsterdam, the Netherlands.
 <br/>
 </p>
@@ -27,7 +27,6 @@ To see the result of the workshop, go to <a href="https://off-technology.website
 <br><br>
 </p>
 </div>
-<br/>
 
 <div>
 <p align="middle">
@@ -41,20 +40,19 @@ To see the result of the workshop, go to <a href="https://off-technology.website
 
 <br/>
 <ul>
-<li><i>workshop ZOOM-DIY-SOUND, via Zoom, Ilmin Museum of Art, Seoul, South Korea, 22-23.08.2020</i></li>
-<li><i>circuit-bending pre-study: DIY e-waste analog synthesizer, Woman Open Tech Lab, Seoul, South Korea, 31.10.2020</i></li>
-<li><i>DIY E-Waste Synthesizer, Sonic Acts, Amsterdam, the Netherlands, 18.06.2022</i></li>
-<li><i>DIY E-Waste Synthesizer, Sonic Acts, Amsterdam, the Netherlands, 14.10.2022</i></li>
-<li><i>DIY E-Waste Synthesizer, Ecological Futures, Powerplant, Seoul, South Korea, 19-21.07.2024</i></li>
 <li><i>DIY E-Waste Synthesizer, The Seoul Arts Learning center - Seoul Arts & Culture Education Center Yongsan, Seoul, South Korea, 26-27.07.2024</i></li>
+<li><i>DIY E-Waste Synthesizer, Ecological Futures, Powerplant, Seoul, South Korea, 19-21.07.2024</i></li>
+<li><i>DIY E-Waste Synthesizer, Sonic Acts, Amsterdam, the Netherlands, 14.10.2022</i></li>
+<li><i>DIY E-Waste Synthesizer, Sonic Acts, Amsterdam, the Netherlands, 18.06.2022</i></li>
+<li><i>circuit-bending pre-study: DIY e-waste analog synthesizer, Woman Open Tech Lab, Seoul, South Korea, 31.10.2020</i></li>
+<li><i>workshop ZOOM-DIY-SOUND, via Zoom, Ilmin Museum of Art, Seoul, South Korea, 22-23.08.2020</i></li>
 </ul>
-
+<br>
 <div class="img_row">
 <p align="middle">
-	<img class="img_poster" src="/img/poster/ghost_coming_2020.png" alt="poster Ilmin Museum of Art" title="poster Ilmin Museum of Art"/>
-  <br/>
   <img class="img_poster" src="/img/poster/SonicActs_mina.png" alt="poster Sonic Acts" title="poster Sonic Acts"/>
-	<br/>
+  <br/>
+	<img class="img_poster" src="/img/poster/ghost_coming_2020.png" alt="poster Ilmin Museum of Art" title="poster Ilmin Museum of Art"/>
   </p>
 </div>
 
