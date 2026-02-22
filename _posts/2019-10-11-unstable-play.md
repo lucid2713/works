@@ -23,7 +23,7 @@ Performance(15'), 2019-current
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VgJLvaYKQ8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></p>
-<br/>
+
 <p align="middle">
 Performance video at <a href="https://www.wesa.kr/2019" target="blank">WeSA</a>2019 festival
 </p>
@@ -31,7 +31,7 @@ Performance video at <a href="https://www.wesa.kr/2019" target="blank">WeSA</a>2
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xmLxtZzVpXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-<br/>
+
 <p align="middle">
 Performance video at Unscene2020 festival
 </p>
@@ -40,7 +40,7 @@ Performance video at Unscene2020 festival
 
 <div>
 <p align="middle">
-<img class="img_horizontal" src="/img/work_footage/split_release_album_2.jpg" alt="split_release_album_2.jpg" title="split_release_album_2.jpg"/><br>
+<img class="img_horizontal" src="/img/work_footage/split_release_album_2.jpg" alt="split_release_album_2.jpg" title="split_release_album_2.jpg"/>
 </p>
 <p align="middle">
 A split tape album of performance ‘Unstable Play’ recorded from WeSA2019 festival. <br>
