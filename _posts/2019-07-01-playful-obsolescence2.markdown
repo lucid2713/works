@@ -10,12 +10,13 @@ Playful Obsolescence, e-waste musical instruments, Installation & Performance(15
 <br/>
 <div>
 <p align="middle">
-<img class="img_horizontal" src="/img/work_footage/ecological-futures-mina.jpg" alt="ecological-futures-mina.jpg" title="ecological-futures-mina.jpg"/></p>
+<img class="img_horizontal" src="/img/work_footage/ecological-futures-mina.jpg" alt="ecological-futures-mina.jpg" title="ecological-futures-mina.jpg"/>
+</p></div>
 <br/>
 <p align="middle">
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/300018380?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</p></div>
+</div></p>
 <br/>
 
 
