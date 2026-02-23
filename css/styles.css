@@ -313,6 +313,10 @@ video {
   background-image:url(/img/icons/icons8-facebook-circled-48.png);
 }
 
+.icon.instagram {
+  background-image: url(/img/icons/icons8-instagram-48.png);
+}
+
 .nav a {
   margin-right: 32px;
   /*margin-bottom: 32px;*/

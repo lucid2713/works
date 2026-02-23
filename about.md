@@ -31,7 +31,8 @@ Under the name Vitamina, she works with sound, and since 2022, she has been lead
 <td><a href="https://www.linkedin.com/in/mina-kim-66b849156/" target="blank"><span class="icon linkedin"></span>linkedin</a></td>
 <!-- <td><a href="https://soundcloud.com/mina-vitamina" target="blank"><span class="icon soundcloud"></span>soundcloud</a></td> -->
 <!-- <td><a href="https://vimeo.com/vitamina" target="blank"><span class="icon vimeo"></span>vimeo</a></td> -->
-<td><a href="https://www.facebook.com/mina.kim.vitamina" target="blank"><span class="icon facebook"></span>facebook</a></td>
+<!-- <td><a href="https://www.facebook.com/mina.kim.vitamina" target="blank"><span class="icon facebook"></span>facebook</a></td> -->
+<td><a href="https://www.instagram.com/mina.kim.vitamina" target="blank"><span class="icon instagram"></span>instagram</a></td>
 <td><address><a href="mailto:mina.vitamina@posteo.net"><span class="icon email"></span>email</a></address></td>
 </tr>
 </table>
