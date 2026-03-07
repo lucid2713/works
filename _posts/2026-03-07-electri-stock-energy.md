@@ -13,7 +13,7 @@ Webpage, Real-time Data Object, Sonification Work, 2026
 Go to see <a href="https://www.project-weaving-energy.website/energy-is-the-new-stock.html" target="blank">electri-stock-energy</a>
 </p>
 </div>
-<br/>
+
 <br/>
 <div><p align="middle">
 <img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/energyisthenewstock01.jpg" alt="energyisthenewstock01.jpg" title="energyisthenewstock01.jpg "/><br>
@@ -40,6 +40,8 @@ ELECTRI-STOCK-ENERGY is neither an environmental campaign nor an investment guid
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8WnXeLYOHls?si=3ZFsdpsH6dsHENzd" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br/>
+"ELECTRI-STOCK-ENERGY" Presentation by Mina Kim
 </p>
 
 
@@ -64,10 +66,11 @@ Landscape of "Weaving the Energy" final results sharing exhibition
 
 <br>
 <p align="middle">
-
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bz-p7TIHTh0?si=Hjx8d1GbKdiWhOdm" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br/>
+"Weaving the Energy" Project Introduction by Mina Kim, Project Organizer
 </p>
 
 <br/>
