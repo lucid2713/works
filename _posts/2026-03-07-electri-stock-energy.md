@@ -8,6 +8,13 @@ Webpage, Real-time Data Object, Sonification Work, 2026
 ***
 
 <br/>
+<div>
+<p align="middle">
+Go to see <a href="https://www.project-weaving-energy.website/energy-is-the-new-stock.html" target="blank">electri-stock-energy</a>
+</p>
+</div>
+<br/>
+<br/>
 <div><p align="middle">
 <img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/energyisthenewstock01.jpg" alt="energyisthenewstock01.jpg" title="energyisthenewstock01.jpg "/><br>
 <img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/energyisthenewstock02.jpg" alt="energyisthenewstock02.jpg" title="energyisthenewstock02.jpg"/>
@@ -28,12 +35,12 @@ ELECTRI-STOCK-ENERGY is neither an environmental campaign nor an investment guid
 
 ***
 
-<!-- <br>
+<br>
 <p align="middle">
 <div class="video-container">
-<iframe src="https://player.vimeo.com/video/300018380?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8WnXeLYOHls?si=3ZFsdpsH6dsHENzd" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-</p> -->
+</p>
 
 
 >
@@ -55,12 +62,13 @@ Landscape of "Weaving the Energy" final results sharing exhibition
 </p>
 </div>
 
-<!-- <br>
+<br>
 <p align="middle">
+
 <div class="video-container">
-<iframe src="https://player.vimeo.com/video/300018380?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bz-p7TIHTh0?si=Hjx8d1GbKdiWhOdm" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-</p> -->
+</p>
 
 <br/>
 <hr>
