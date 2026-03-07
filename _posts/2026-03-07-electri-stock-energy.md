@@ -71,6 +71,6 @@ Landscape of "Weaving the Energy" final results sharing exhibition
 <br/>
 <div class="img_vertical">
 <p align="middle">
-	<img class="img_poster" src="{{ site.baseurl }}/img/weavingtheenergy_poster.png" alt="weavingtheenergy_poster.png" title="poster"/><br/>
+	<img class="img_poster" src="{{ site.baseurl }}/img/poster/weavingtheenergy_poster.png" alt="weavingtheenergy_poster.png" title="poster"/><br/>
   </p>
 </div>
