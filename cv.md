@@ -129,17 +129,17 @@ Dept. of Environmental Planning(Master); Environmental Management
 <br><br>
 <strong>Degree from Frank Mohr Institute, 2019</strong>
 <br>
-MA in Fine Art and Design; <a href="http://fmi.academieminerva.nl/Programs/MADtech" target="blank">MADtech(Media, Art, Design & Technology)</a>
+MA in Fine Art and Design; <a href="https://www.academieminerva.nl/en/programmes/fine-art-and-design-media-art-design-and-technology" target="blank">MADtech(Media, Art, Design & Technology)</a>
 <br><br>
 <strong>Degree from Seoul National University, 2017</strong>
 <br>
-BA in <a href="http://sociology.snu.ac.kr/eng" target="blank">Sociology</a>
+BA in <a href="https://sociology.snu.ac.kr/" target="blank">Sociology</a>
 <br>
-BA in <a href="http://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>
+BA in <a href="https://isc.snu.ac.kr/" target="blank">Information Science and Culture</a>
 <br><br>
 <strong>Supplementary education</strong>
 <br>
-<a href="http://schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017
+<a href="https://www.schoolofma.org/" target="blank">School of Machines, Making & Make-believe</a>, May-Jun.2017
 <br><br>
 
 <!-- <hr/>
