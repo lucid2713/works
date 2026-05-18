@@ -21,7 +21,7 @@ Go to see <a href="https://www.project-weaving-energy.website/energy-is-the-new-
 <br>
 <img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/energyisthenewstock03.jpg" alt="energyisthenewstock03.jpg" title="energyisthenewstock03.jpg"/>
 <br>
-<img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/energyisthenewstock04.jpg" alt="energyisthenewstock04.jpg" title="energyisthenewstock04.jpg"/>
+<!-- <img class="img_horizontal" src="{{ site.baseurl }}/img/work_footage/energyisthenewstock04.jpg" alt="energyisthenewstock04.jpg" title="energyisthenewstock04.jpg"/> -->
 </p>
 </div>
 <br/>
